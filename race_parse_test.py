@@ -27,14 +27,12 @@
 # * SP
 # * S-TAB (Win and place)
 
-
 import glob
 import re
 import pathlib
 from bs4 import BeautifulSoup
 
-file = "/Users/phillipmonk/research_paper/html/races/racing_com_form_2023-08-09_warwick-farm_race_4.html"
-
+file = "/Users/phillipmonk/research_paper/html/races/racing_com_form_2023-08-09_ladbrokes-park-hillside_race_6.html"
 
 with open(file) as fp:
     soup = BeautifulSoup(fp, "html.parser")
@@ -88,7 +86,6 @@ for element in prize_money_list:
 table_rows = soup.find_all("div", {"class": "index_rdc-table-row__XoMhX"})
 
 for row in table_rows:
-    print(row.get_text())
     # Finishing Position
     finishing_pos = row.find("div", {"class": "index_rdc-basic-text__AyDZW font-circular font-bold"})
     if finishing_pos is None:
@@ -97,9 +94,10 @@ for row in table_rows:
         print("finishing_pos=> " + finishing_pos.text)
 
     # Horse Name
-    horse_data = row.find_all("span", {"class": "index_rdc-link--label__GFZdj"})
+    horse_data = row.find_all(True, {"class": ["index_rdc-link--label__GFZdj",
+                                               "index_rdc-basic-text__AyDZW text-base text-grey-66 font-normal flex"]})
     horse_data_length = len(horse_data)
-
+    
     if horse_data_length > 0:
         # Horse Name
         if horse_data[0] is not None:
@@ -110,37 +108,38 @@ for row in table_rows:
             print("trainer=>" + horse_data[1].text)
 
         # Jockey
-        if horse_data[2] is not None:        
-            print("jockey=>" + horse_data[2].text)
+        if horse_data[-1] is not None:        
+            print("jockey=>" + horse_data[-1].text)
     
         # Weight
-        runner_details = row.find_all("div", {"class": "index_rdc-basic-text__AyDZW"})
+        runner_details = row.find_all("div", {"class": ["index_rdc-basic-text__AyDZW",
+                                                        "index_rdc-table-cell__XouUW index_rdc-table-cell__center__1nsfz"]})
         runner_details_length = len(runner_details)
 
         print("runner_details_length=>" + str(runner_details_length))
-        print("weight=>" + runner_details[5].text)
+        print("weight=>" + runner_details[6].text)
 
         # Prize ($)
-        print("prize=>" + runner_details[6].text)
+        print("prize=>" + runner_details[7].text)
 
         # 800m/400m
-        print("800m_400m=>" + runner_details[7].text)
+        print("800m_400m=>" + runner_details[8].text)
 
         # Margin
-        print("margin=>" + runner_details[8].text)
+        print("margin=>" + runner_details[9].text)
 
         # Comments
-        print("comments=>" + runner_details[9].text)
+        print("comments=>" + runner_details[10].text)
 
         # SP
-        print("sp=>" + runner_details[10].text)
+        print("sp=>" + runner_details[11].text)
 
         # S-TAB win
-        if runner_details_length > 11:
-            print("s_tab_win=>" + runner_details[11].text)
+        if runner_details_length > 12:
+            print("s_tab_win=>" + runner_details[12].text)
 
             # S-TAB place
-            print("s_tab_place=>" + runner_details[12].text)
+            print("s_tab_place=>" + runner_details[13].text)
         
 fp.close()
 
