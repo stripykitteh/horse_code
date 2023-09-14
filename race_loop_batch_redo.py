@@ -8,9 +8,9 @@
 
 import os
 
-for x in range(0, 10, 10):
-    os.system("node ./race_loop_redo.js " + str(x) + " " + str(x + 10))
+#for x in range(0, 12, 3):
+#    os.system("node ./race_loop_redo.js " + str(x) + " " + str(x + 3))
 
-os.system("node ./race_loop_redo.js 10 13")
+os.system("node ./race_loop_redo.js 0 1")
 
 exit(0)
