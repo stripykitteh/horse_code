@@ -1,5 +1,5 @@
 //
-// race_loop_final.js
+// race_loop_redo.js
 // -----------------
 //
 // loop through a list of races and store the relevant
