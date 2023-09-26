@@ -57,7 +57,7 @@ def only_numerics(seq):
     return ''.join(c for c in seq if (c.isdigit() or c =='.'))
 
 # horse fields
-fields = ['horse_name', 'foaled', 'colour', 'sire', 'dam', 'trainer', 'age', 'sex', 'rating', 'group_1_wins', 'starts', 'firsts', 'seconds', 'thirds', 'prize_money', 'season', 'grp_listed', 'first_up', 'second_up', 'third_up', 'firm', 'good', 'soft', 'heavy', 'jumps', 'synth', 'position', 'num_runners', 'trainer', 'prize', '_class', 'jockey', 'track_date', 'dist', 'cond', 'weight', '800m', '400m', 'margin', 'rating', 'odds', 'odds_source'] 
+fields = ['horse_name', 'foaled', 'colour', 'sire', 'dam', 'sex', 'group_1_wins', 'starts', 'firsts', 'seconds', 'thirds', 'prize_money', 'season', 'grp_listed', 'first_up', 'second_up', 'third_up', 'firm', 'good', 'soft', 'heavy', 'jumps', 'synth', 'position', 'num_runners', 'trainer', 'prize', '_class', 'jockey', 'track', 'date', 'dist', 'cond', 'weight', '800m', '400m', 'margin', 'rating', 'odds', 'odds_source'] 
 print("fields=>", fields)
 
 # Open a file for writing
@@ -96,19 +96,19 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/horse_data.csv', 'w
             # Dam
             parent.append(deets[2].text.split("/")[1].strip())
 
-            # Trainer
-            parent.append(deets[3].text.strip())
+            # Trainer is redundant, we can use the trainer data for individual races
+            # parent.append(deets[3].text.strip())
 
             quick_stats = soup.find("table", {"class": "quick-stats-table desk"}).find_all("span", {"class": "stat"})
 
-            # Age
-            parent.append(quick_stats[0].text.strip())
+            # Current age is redundant, we can derive it for individual races
+            # parent.append(quick_stats[0].text.strip())
 
             # Sex
             parent.append(quick_stats[1].text.strip())
 
-            # Rating
-            parent.append(quick_stats[2].text.strip())
+            # Current rating is redundant, use the historic one
+            # parent.append(quick_stats[2].text.strip())
 
             # Group 1 Wins
             if ord(quick_stats[3].text.strip()) == 8211: # en-dash means no group 1 wins
@@ -199,7 +199,9 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/horse_data.csv', 'w
                 #child.append(horse)
 
                 # * Trainer
-                trainer = columns[5].text.strip().split('\n')[0].split('\xa0')[1]
+                people = columns[5].find_all("a", href=True)
+                trainer = people[0].get("href").split("/")[-1]
+                #trainer = columns[5].text.strip().split('\n')[0].split('\xa0')[1]
                 child.append(trainer)
 
                 # * Prize
@@ -219,20 +221,18 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/horse_data.csv', 'w
                 _class = columns[11].text.strip().split('\n')[-1]
                 child.append(_class)
 
-                    # * Jockey
+                # * Jockey
                 if prize[0] == "$":
-                    # rarely the jockey is not recorded
-                    if len(columns[5].text.strip().split('\n')[1].split('\xa0')) == 2:
-                        jockey = columns[5].text.strip().split('\n')[1].split('\xa0')[1]
-                    else:
-                        jockey = ""
+                    jockey = people[1].get("href").split("/")[-1]
                 else:
                     jockey = ""
                 child.append(jockey)
         
                 # * Track/Date
-                race_date = columns[6].text.strip()
-                child.append(race_date)
+                track = columns[8].text.strip()
+                child.append(track)                
+                date = columns[6].text.strip()            
+                child.append(date)
         
                 # * Dist
                 dist = columns[9].text.strip().split('\n')[0][:-1]
