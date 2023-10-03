@@ -38,9 +38,10 @@ page_root = 'https://www.racenet.com.au';
 for (let sectional_no = arg[0]; sectional_no < arg[1]; sectional_no++) {
 
     (async () => { 
-	const browser = await chromium.launch({headless: false, args:['--start-maximized']});
-	const context = await browser.newContext( { viewport: null } );
-	const page = await context.newPage();
+	const browser = await chromium.launchPersistentContext("/Users/phillipmonk/Library/Application Support/Google/Chrome/", {headless: false, args:['--start-maximized'], channel: "chrome"});
+//	const browser = await chromium.launch({headless: false, args:['--start-maximized']});	
+//	const context = await browser.newContext( { viewport: null } );
+	const page = await browser.newPage();
 	
 	var sectional_arr = sectionals[sectional_no].split(',');
 	sectional_stub = sectional_arr[0];

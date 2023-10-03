@@ -60,12 +60,18 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/trainer_data.csv', 
             deets = soup.find("table", {"class": "quick-stats-table desk"}).find_all("span", {"class": "stat"})
 
             # Career Wins
-            career_wins = deets[0].text.strip()
+            if ord(deets[0].text.strip()[0]) == 8211: # en-dash means no career wins
+                career_wins = '0'
+            else:
+                career_wins = deets[0].text.strip()
             print("career_wins=>", career_wins)
             parent.append(career_wins)
-
+            
             # Group 1 Wins
-            group_1_wins = deets[1].text.strip()
+            if ord(deets[1].text.strip()[0]) == 8211: # en-dash means no group 1 wins
+                group_1_wins = '0'
+            else:
+                group_1_wins = deets[1].text.strip()
             print("group_1_wins=>", group_1_wins)
             parent.append(group_1_wins)
             
