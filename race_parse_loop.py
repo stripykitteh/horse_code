@@ -45,12 +45,14 @@ from datetime import datetime
 from decimal import Decimal
 from re import sub
 import csv
+import statistics
+import math
 
 def only_numerics(seq):
     return ''.join(c for c in seq if (c.isdigit() or c =='.'))
 
 # race fields
-fields = ['race_course', 'race_no', 'datetime', 'distance', 'class', 'track_cond', 'track_rail', 'race_time', 'prize_money', 'position', 'horse_name', 'barrier', 'trainer', 'jockey', 'weight', 'prize', '800m', '400m', 'margin', 'sp', 's_tab_win', 's_tab_place']
+fields = ['race_course', 'race_no', 'datetime', 'distance', 'class', 'track_cond', 'track_rail', 'race_time', 'prize_money', 'position', 'horse_name', 'barrier', 'trainer', 'jockey', 'weight', 'prize', '800m', '400m', 'margin', 'horse_adjusted_t1_speed', 'sp', 's_tab_win', 's_tab_place']
 print("fields=>", fields)
 
 # Open a file for writing
@@ -62,7 +64,7 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/race_data.csv', 'w'
     csvwriter.writerow(fields)
 
     # write the data rows
-    for file in glob.glob("/Users/phillipmonk/research_paper/html/races_final/*.html"):
+    for file in sorted(glob.glob("/Users/phillipmonk/research_paper/html/races_final/*.html")):
         with open(file) as fp:
             print("file=>", file)
             soup = BeautifulSoup(fp, "html.parser")
@@ -84,12 +86,14 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/race_data.csv', 'w'
             parent.append(str(datetime))
         
             # Format distance and class
-            parent.append(race_header[3].text[:-1])
+            distance = int(race_header[3].text[:-1])
+            parent.append(distance)
             parent.append(race_header[4].text)
 
             # Track Condition
-            track_cond = soup.find_all("div", {"class": "flex justify-center items-center mt-2"})
-            parent.append(track_cond[-1].text.split(" ")[1].split("\xa0")[0])
+            track_cond_str = soup.find_all("div", {"class": "flex justify-center items-center mt-2"})
+            track_cond = int(track_cond_str[-1].text.split(" ")[1].split("\xa0")[0])
+            parent.append(track_cond)
 
             # Track Rail
             track_rail_all = soup.find("div", {"class": "flex flex-col justify-center"})
@@ -180,17 +184,45 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/race_data.csv', 'w'
                     child.append(only_numerics(runner_details[8].text.split('/')[1]))
 
                 # Margin
-                # rarely, the margin is not recorded
+                # rarely, the margin is not recorded, use a dummy value of 5
                 if runner_details[9].text == "":
-                    child.append("")
+                    margin = 5
                 else:
                     # winner gets a margin of 0
                     if position == 1:
                         margin = 0
                     else:
-                        margin = only_numerics(runner_details[9].text)
-                    child.append(str(margin))
+                        margin = float(only_numerics(runner_details[9].text))
+                child.append(margin)
 
+                # horse_t1_speed
+                # convert the margin to a distance then calculate the speed
+                # 1 length ~= 2.4 metres
+                horse_t1_distance = distance - (margin * 2.4)
+                horse_t1_speed = (horse_t1_distance/race_time_secs) * 3.6
+
+                # Adjust the speed
+                # ----------------
+                
+                # We use a formula to standardise the speeds of horses over
+                # different distances, basically calling a 60 sec 1000 metre
+                # sprint and a 210 sec 3200 metre race the same speed and using
+                # a log curve in between as appropriate.
+                
+                adj_distance = ((horse_t1_distance/1000)**(math.log(3.5)/math.log(3.2))*1000)/horse_t1_distance                
+                # We also add a factor for the track condition.
+                # Track rating 1-3 means no adjustment
+                # For every point above 3, we increase the speed by 0.5%, so
+                # e.g. a track rating of 7 attracts a multiplier of 1.02 (2%).
+
+                if track_cond < 3:
+                    adj_track = 1
+                else:
+                    adj_track = 1 + (track_cond - 3)*0.005
+
+                horse_adjusted_t1_speed = horse_t1_speed * adj_distance * adj_track
+                child.append(horse_adjusted_t1_speed)
+                                
                 # Comments
                 #print("comments=>", runner_details[10].text)
 
