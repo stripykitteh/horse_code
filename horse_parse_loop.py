@@ -256,7 +256,7 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/horse_data.csv', 'w
                 child.append(date)
 
                 # Group 1 Wins
-                if _class == 1 & position == 1:
+                if (_class == 1) and (position == 1):
                     group_1_wins += 1
                 child.append(group_1_wins)
                
