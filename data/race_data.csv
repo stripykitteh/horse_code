@@ -1,9 +1,9 @@
 race_course,race_no,datetime,distance,class,track_cond,track_rail,race_time,prize_money,position,horse_name,barrier,trainer,jockey,weight,prize,800m,400m,margin,horse_adjusted_t1_speed,sp,s_tab_win,s_tab_place
-Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,1,Stay Gold,1,D.T.O'Brien,J.Kah ,61.5,71500,4,3,0,62.03867176603378,0,4.60,1.90
-Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,2,Mrs Sippy,8,J.Warren & D.Krongold,J.Richards (a2),60.5,23400,3,4,0.1,62.02721727731424,0,0,1.90
+Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,1,Stay Gold,1,D.T.O'Brien,J.Kah ,61.5,71500,4,3,0,62.03867176603378,5.00,4.60,1.90
+Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,2,Mrs Sippy,8,J.Warren & D.Krongold,J.Richards (a2),60.5,23400,3,4,0.1,62.02721727731424,5.00,0,1.90
 Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,3,Takissacod,4,D.L.Scott,N.Heywood ,62,11700,1,1,0.6,61.96994710381314,26.00,0,4.20
 Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,4,Sensationalisation,6,M.Price & M.Kent (Jnr),M.J.Cartwright (a2),59.5,6500,2,2,0.7,61.95849352329999,10.00,0,0
-Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,5,Sweet Karolina,9,L. & T.Corstens,D.Oliver ,61,3900,8,8,1.95,61.81533655338575,0,0,0
+Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,5,Sweet Karolina,9,L. & T.Corstens,D.Oliver ,61,3900,8,8,1.95,61.81533655338575,5.00,0,0
 Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,6,Way To Go Paula,2,P.J.Stokes,M.J.Lloyd (a3),58.5,2600,7,6,2.15,61.79243363738445,5.50,0,0
 Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,7,Hearty Lass,3,J.V.Hyam,A.K.Kelly (a3),62,2600,9,9,2.35,61.769531328584556,14.00,0,0
 Flemington,2,2022-01-01 11:05:00,1400,BM 70,4,Out 6m Entire Circuit,83.79,130000,8,Lady D'oro,5,R.Griffiths & M.de Kock,L.N.McNeil (a3),59.5,2600,5,7,2.45,61.75808040194543,9.50,0,0
@@ -527,7 +527,7 @@ Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,
 Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,3,Megamea,1,L.F.Oliver,F.W.Kersley ,55.5,11700,6,6,0.5,62.51613425767152,7.50,0,2.80
 Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,4,Galgani,3,N.M.Burke,J.Richards (a2),59.5,6500,5,5,0.7,62.49302931648684,8.00,0,0
 Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,5,Witchfulthinking,9,A.Noblet,P.M.Moloney ,58,3900,1,1,0.9,62.469924986335215,10.00,0,0
-Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,6,Vespertine,13,G.M.Begg,M.J.Cartwright (a2),58,2600,13,13,1.1,62.44682126741032,0,0,0
+Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,6,Vespertine,13,G.M.Begg,M.J.Cartwright (a2),58,2600,13,13,1.1,62.44682126741032,6.0,0,0
 Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,7,Gloves Are Off,7,K.P.Hann,B.Prebble ,54,2600,4,4,2.35,62.302436884319036,21.00,0,0
 Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,8,Groovy Kinda Love,6,M.C.Kent,C.Williams ,56,2600,12,12,2.45,62.29088716686358,6.00,0,0
 Caulfield,6,2022-02-05 15:45:00,1400,BM 78,3,Out 9m Entire Circuit,82.66,130000,9,Sensationalisation,4,M.Price & M.Kent (Jnr),J.McNeil ,55,2600,7,7,3.2,62.20426917033677,9.00,0,0
@@ -1317,8 +1317,8 @@ Caulfield,9,2022-04-09 17:25:00,1400,BM 78,4,True Entire Circuit,84.84,130000,12
 Caulfield,9,2022-04-09 17:25:00,1400,BM 78,4,True Entire Circuit,84.84,130000,13,Brazen Song,2,S.P.Nichols,M.J.Lloyd (a2),56.5,0,2,3,8.15,60.34937158790182,15.00,0,0
 Caulfield,9,2022-04-09 17:25:00,1400,BM 78,4,True Entire Circuit,84.84,130000,14,Never Again,11,C.W.McDonald,L.J.Neindorf (a2),60.5,0,11,8,8.45,60.31547063808094,151.00,0,0
 Caulfield,1,2022-04-16 12:20:00,1200,Open,4,Out 3m Entire Circuit,70.29,130000,1,Liberty Steps,8,B. & JD.Hayes,C.Williams ,57,71500,8,8,0,62.640698818278786,11.00,12.60,2.60
-Caulfield,1,2022-04-16 12:20:00,1200,Open,4,Out 3m Entire Circuit,70.29,130000,2,Jamarra,4,C.Maher & D.Eustace,J.Kah ,58,23400,5,5,0.5,62.57323471707206,0,0,1.40
-Caulfield,1,2022-04-16 12:20:00,1200,Open,4,Out 3m Entire Circuit,70.29,130000,3,Plus Fours,5,P.J.Stokes,B.Prebble ,57,11700,6,6,4.0,62.10113195185695,0,0,1.50
+Caulfield,1,2022-04-16 12:20:00,1200,Open,4,Out 3m Entire Circuit,70.29,130000,2,Jamarra,4,C.Maher & D.Eustace,J.Kah ,58,23400,5,5,0.5,62.57323471707206,3.80,0,1.40
+Caulfield,1,2022-04-16 12:20:00,1200,Open,4,Out 3m Entire Circuit,70.29,130000,3,Plus Fours,5,P.J.Stokes,B.Prebble ,57,11700,6,6,4.0,62.10113195185695,3.80,0,1.50
 Caulfield,1,2022-04-16 12:20:00,1200,Open,4,Out 3m Entire Circuit,70.29,130000,4,Social Conscience,7,C.Blackshaw,B.Mertens ,57,6500,3,2,5.25,61.932585918265055,21.00,0,0
 Caulfield,1,2022-04-16 12:20:00,1200,Open,4,Out 3m Entire Circuit,70.29,130000,5,Reservoir Dog,3,T.Busuttin & N.Young,C.Newitt ,56.5,3900,7,7,6.75,61.730373986478064,12.00,0,0
 Caulfield,1,2022-04-16 12:20:00,1200,Open,4,Out 3m Entire Circuit,70.29,130000,6,Coldlove,1,P.G.Moody,B.McDougall ,55,2600,4,3,7.75,61.595592340903984,5.00,0,0
@@ -1628,8 +1628,8 @@ Flemington,2,2022-05-14 12:30:00,1100,BM 78,5,Out 2m Entire Circuit,65.53,130000
 Flemington,2,2022-05-14 12:30:00,1100,BM 78,5,Out 2m Entire Circuit,65.53,130000,7,Miss Melbourne,1,D.T.O'Brien,D.Thornton ,54,2600,3,4,3.9,60.92116543218613,6.50,0,0
 Flemington,2,2022-05-14 12:30:00,1100,BM 78,5,Out 2m Entire Circuit,65.53,130000,8,Lady Adelaide,2,P.Payne,J.Richards (a2),54,2600,4,5,5.4,60.70461109771881,10.00,0,0
 Flemington,3,2022-05-14 13:05:00,1700,Open,5,Out 2m Entire Circuit,105.95,130000,1,Flash Feeling (NZ),8,J.D.Sadler,M.J.Cartwright (a1.5),54,71500,8,8,0,60.77517501789587,5.50,5.60,2.10
-Flemington,3,2022-05-14 13:05:00,1700,Open,5,Out 2m Entire Circuit,105.95,130000,2,General Firepower,6,M.D.Moroney,J.McNeil ,54,23400,1,1,0.3,60.747452313981476,0,0,1.70
-Flemington,3,2022-05-14 13:05:00,1700,Open,5,Out 2m Entire Circuit,105.95,130000,3,British Columbia,7,G.M.Begg,M.J.Dee ,54.5,11700,2,2,0.5,60.72897101410278,0,0,1.80
+Flemington,3,2022-05-14 13:05:00,1700,Open,5,Out 2m Entire Circuit,105.95,130000,2,General Firepower,6,M.D.Moroney,J.McNeil ,54,23400,1,1,0.3,60.747452313981476,4.40,0,1.70
+Flemington,3,2022-05-14 13:05:00,1700,Open,5,Out 2m Entire Circuit,105.95,130000,3,British Columbia,7,G.M.Begg,M.J.Dee ,54.5,11700,2,2,0.5,60.72897101410278,4.40,0,1.80
 Flemington,3,2022-05-14 13:05:00,1700,Open,5,Out 2m Entire Circuit,105.95,130000,4,Carlisle,1,J.F.Moloney,J.Mott ,56.5,6500,4,7,1.5,60.63657055141551,5.00,0,0
 Flemington,3,2022-05-14 13:05:00,1700,Open,5,Out 2m Entire Circuit,105.95,130000,5,Not A Brass Razoo (NZ),2,A.Noblet,D.Holland ,54,3900,5,4,3.75,60.428706351841114,12.00,0,0
 Flemington,3,2022-05-14 13:05:00,1700,Open,5,Out 2m Entire Circuit,105.95,130000,6,Sonora,5,C.Maher & D.Eustace,H.T.Coffey ,54,2600,3,3,5.0,60.3132483261614,6.00,0,0
@@ -1725,9 +1725,9 @@ Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,13000
 Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,130000,6,Accountability (IRE),1,C.J.Waller,B.Prebble ,56,2600,3,2,3.0,61.57094347556311,8.50,0,0
 Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,130000,7,Taramansour (IRE),6,M.S.S.Cumani,D.Oliver ,58,2600,6,4,3.1,61.56455891687667,6.50,0,0
 Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,130000,8,Young Hostess,9,J.W.Edwards,B.Mertens ,54,2600,7,5,3.85,61.51667623666825,21.00,0,0
-Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,130000,9,Eureka Street,7,J.Warren & D.Krongold,L.Meech ,55.5,2600,4,3,6.1,61.37304419834472,0,0,0
+Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,130000,9,Eureka Street,7,J.Warren & D.Krongold,L.Meech ,55.5,2600,4,3,6.1,61.37304419834472,5.50,0,0
 Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,130000,10,Kaituku (NZ),8,S.W.Wilde,J.Bowditch ,54,2600,1,1,10.1,61.1177577435951,6.50,0,0
-Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,130000,11,Algiers,3,J.J.Robinson,T.M.Nugent (a1.5),54,0,2,10,30.1,59.84247477592006,0,0,0
+Flemington,1,2022-05-21 11:50:00,2500,BM 84,4,Out 6m Entire Circuit,157.16,130000,11,Algiers,3,J.J.Robinson,T.M.Nugent (a1.5),54,0,2,10,30.1,59.84247477592006,5.50,0,0
 Flemington,2,2022-05-21 12:25:00,1400,Open,4,Out 6m Entire Circuit,84.45,130000,1,Brosnan,2,G.Ryan & S.Alexiou,J.McNeil ,57,71500,4,3,0,61.5538224662637,3.00,2.40,1.60
 Flemington,2,2022-05-21 12:25:00,1400,Open,4,Out 6m Entire Circuit,84.45,130000,2,Anphina,3,A.R.Bobbin,L.Meech ,55,23400,7,6,0.4,61.50836349216408,10.00,0,3.00
 Flemington,2,2022-05-21 12:25:00,1400,Open,4,Out 6m Entire Circuit,84.45,130000,3,Lethal Thoughts,5,C.Maher & D.Eustace,E.P.Brown ,57,11700,2,1,0.6,61.48563490619896,5.00,0,2.00
@@ -2010,9 +2010,9 @@ Flemington,6,2022-06-04 14:45:00,2000,BM 84,6,Out 9m Entire Circuit,123.93,13000
 Flemington,6,2022-06-04 14:45:00,2000,BM 84,6,Out 9m Entire Circuit,123.93,130000,11,Namakwa,2,C.Maher & D.Eustace,J.Kah ,57,0,3,12,12.9,61.16694157279716,21.00,0,0
 Flemington,6,2022-06-04 14:45:00,2000,BM 84,6,Out 9m Entire Circuit,123.93,130000,12,Hector De Maris (IRE),12,R.L.Hickmott,A.K.Kelly (a2),58,0,1,11,32.9,59.56249510452671,10.00,0,0
 Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,1,Jimmy The Bear,10,P.Payne,T.M.Nugent (a0),56,71500,5,2,0,61.18102659856654,8.50,7.50,2.50
-Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,2,Arran Bay,2,P.J.Stokes,Z.Spain ,54,23400,3,5,0.1,61.16973046086606,0,0,1.90
+Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,2,Arran Bay,2,P.J.Stokes,Z.Spain ,54,23400,3,5,0.1,61.16973046086606,4.00,0,1.90
 Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,3,Literary Magnate,11,M.J.Williams,D.Bates ,54,11700,12,10,0.85,61.08501418600755,4.80,0,2.00
-Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,4,Cardinal Gem,4,G.M.Begg,J.Childs ,54,6500,4,8,1.05,61.06242459820409,0,0,0
+Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,4,Cardinal Gem,4,G.M.Begg,J.Childs ,54,6500,4,8,1.05,61.06242459820409,4.00,0,0
 Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,5,Daily Bugle,6,R.Griffiths & M.de Kock,M.J.Cartwright (a1.5),54,3900,8,6,1.25,61.039835608163735,41.00,0,0
 Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,6,Sunfall,8,M.Price & M.Kent (Jnr),C.Newitt ,54,2600,10,9,3.25,60.81397862649742,14.00,0,0
 Flemington,7,2022-06-04 15:20:00,1400,Open,6,Out 9m Entire Circuit,85.81,130000,7,Heavenly Eagle (NZ),12,S.Brown,W.J.Egan ,54,2600,9,7,3.35,60.802687350449915,18.00,0,0
@@ -2377,13 +2377,13 @@ Flemington,2,2022-07-02 12:25:00,1200,Quality,6,True Entire Circuit,71.65,150000
 Flemington,2,2022-07-02 12:25:00,1200,Quality,6,True Entire Circuit,71.65,150000,7,Chaseton,1,P.G.Moody,L.Nolen ,55.5,3000,2,6,3.55,61.588698459524984,3.70,0,0
 Flemington,2,2022-07-02 12:25:00,1200,Quality,6,True Entire Circuit,71.65,150000,8,Gold Bucket,4,T.Busuttin & N.Young,C.Newitt ,57,3000,3,4,5.8,61.28811507157464,19.00,0,0
 Flemington,2,2022-07-02 12:25:00,1200,Quality,6,True Entire Circuit,71.65,150000,9,Vegas Raider,9,D.A.Pfieffer,B.McDougall ,58,3000,9,7,5.9,61.27475825327377,10.00,0,0
-Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,1,My Yankee Girl,5,J.P.Salanitri,J.McNeil ,58,82500,9,6,0,62.47701883164339,0,4.10,1.80
+Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,1,My Yankee Girl,5,J.P.Salanitri,J.McNeil ,58,82500,9,6,0,62.47701883164339,4.40,4.10,1.80
 Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,2,Rioyuki,3,M.J.Williams,D.Holland ,54.5,27000,7,4,0.2,62.453948138463325,21.00,0,6.10
 Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,3,Bella Rouge,4,C.J.Waller,B.Prebble ,60,13500,2,1,0.4,62.430878054887465,5.00,0,1.90
 Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,4,Canbya,9,J.A.Cummings,A.K.Kelly (a0),54.5,7500,11,11,1.9,62.257871878707874,21.00,0,0
 Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,5,Throntari,6,R.Griffiths & M.de Kock,E.P.Brown ,54,4500,4,3,2.0,62.246339355222894,20.00,0,0
 Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,6,Arranmore,8,C.J.Waller,C.Newitt ,54,3000,10,10,2.75,62.15985030242653,26.00,0,0
-Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,7,Liberated Girl (NZ),2,P.G.Moody,L.Meech ,54,3000,8,9,4.5,61.95807600318916,0,0,0
+Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,7,Liberated Girl (NZ),2,P.G.Moody,L.Meech ,54,3000,8,9,4.5,61.95807600318916,4.80,0,0
 Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,8,Brookline,10,A.Alexander,Z.Spain ,56,3000,3,5,6.25,61.75634869675297,8.50,0,0
 Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,9,Wrote To Arataki (NZ),1,M.J.Williams,D.Moor ,55,3000,5,8,7.0,61.669908554966234,5.00,0,0
 Flemington,3,2022-07-02 13:00:00,1400,Quality,6,True Entire Circuit,84.03,150000,10,Pick Za Beans,11,P.G.Moody,B.McDougall ,54,3000,1,2,7.5,61.61228660750549,31.00,0,0
@@ -2420,10 +2420,10 @@ Flemington,6,2022-07-02 14:55:00,2600,Quality,6,True Entire Circuit,166.44,15000
 Flemington,6,2022-07-02 14:55:00,2600,Quality,6,True Entire Circuit,166.44,150000,8,Taramansour (IRE),2,M.S.S.Cumani,D.Moor ,54,3000,9,10,13.7,60.604071553043525,18.00,0,0
 Flemington,6,2022-07-02 14:55:00,2600,Quality,6,True Entire Circuit,166.44,150000,9,Saracen Knight (IRE),10,D.T.O'Brien,C.Newitt ,54,3000,7,7,18.2,60.32950869423293,8.50,0,0
 Flemington,6,2022-07-02 14:55:00,2600,Quality,6,True Entire Circuit,166.44,150000,10,Maserartie Bay,4,C.Maher & D.Eustace,J.McNeil ,58,3000,2,4,58.2,57.892918104431075,4.60,0,0
-Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,1,Sirius Suspect,4,S.Hasan,E.P.Brown ,54,97000,5,3,0,63.27299105972509,0,4.10,1.60
+Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,1,Sirius Suspect,4,S.Hasan,E.P.Brown ,54,97000,5,3,0,63.27299105972509,4.00,4.10,1.60
 Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,2,Florescent Star,8,A. & A.Yargi,D.Holland ,54,28800,3,4,1.0,63.13670615356662,8.50,0,2.40
 Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,3,Sartorial Splendor,9,J.D.Sadler,J.McNeil ,54,14400,1,1,1.1,63.12307881950632,8.50,0,2.60
-Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,4,Zac De Boss (NZ),6,S.Zahra,M.J.Cartwright (a0),54,7200,2,2,1.3,63.095824782739825,0,0,0
+Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,4,Zac De Boss (NZ),6,S.Zahra,M.J.Cartwright (a0),54,7200,2,2,1.3,63.095824782739825,10.00,0,0
 Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,5,William Thomas,2,J.W.Price,W.J.Egan ,54,4000,9,9,5.05,62.584967849682485,19.00,0,0
 Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,6,Crestani,5,P.G.Carey,B.Mertens ,54,3200,7,6,5.25,62.5577305017,11.00,0,0
 Flemington,7,2022-07-02 15:30:00,1200,Listed,6,True Entire Circuit,70.28,160000,7,Miss Albania,7,P.Koumis,D.Moor ,54,3200,4,5,5.55,62.516876070328046,26.00,0,0
@@ -2639,10 +2639,10 @@ Royal Randwick,3,2022-07-09 12:10:00,1400,BM 70,9,+9m Entire,88.65,150000,5,Ocea
 Royal Randwick,3,2022-07-09 12:10:00,1400,BM 70,9,+9m Entire,88.65,150000,6,Famous Pedrille,8,R.J.Quinton,A.Adkins ,56.5,4000,5,6,10.55,58.92641377289632,21.00,0,0
 Royal Randwick,3,2022-07-09 12:10:00,1400,BM 70,9,+9m Entire,88.65,150000,7,Offaneasy (NZ),4,J. & G.Lee,W.Costin ,54,3500,7,8,14.74,58.462279255324965,101.00,0,0
 Royal Randwick,3,2022-07-09 12:10:00,1400,BM 70,9,+9m Entire,88.65,150000,8,Journalism,3,G.Waterhouse & A.Bott,B.Avdulla ,56,3500,4,4,17.9,58.11241401491817,8.00,0,0
-Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,1,La Chevalee,2,C.Maher & D.Eustace,S.Clipperton ,61,76500,3,3,0,59.58861421252197,0,0,0
+Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,1,La Chevalee,2,C.Maher & D.Eustace,S.Clipperton ,61,76500,3,3,0,59.58861421252197,4.60,0,0
 Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,2,So United,8,G.Waterhouse & A.Bott,R.King ,56,27500,2,2,0.63,59.54009594215424,10.00,0,0
 Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,3,Philipsburg (NZ),7,J.Ponsonby,W.Costin ,59.5,13250,9,9,2.24,59.41611765945958,11.00,0,0
-Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,4,Tinnie Winnie,6,C.J.Waller,H.Bowman ,56.5,6750,4,4,4.58,59.23595861785546,0,0,0
+Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,4,Tinnie Winnie,6,C.J.Waller,H.Bowman ,56.5,6750,4,4,4.58,59.23595861785546,4.60,0,0
 Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,5,Cadre Du Noir (USA),5,C.Maher & D.Eustace,J.Collett ,60.5,5000,5,5,4.77,59.221332038291294,12.00,0,0
 Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,6,Nothinsweetaboutme,1,G.Waterhouse & A.Bott,T.Clark ,60,4000,1,1,4.9,59.21132452747218,5.00,0,0
 Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,7,Orbital Express,10,J.R.Gask,R.Jones (a2),54,3500,7,8,6.25,59.10740753175992,26.00,0,0
@@ -2650,7 +2650,7 @@ Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,8,Sec
 Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,9,Kirkeby,4,C.J.Waller,T.Schiller (a2),55,3500,8,7,9.4,58.86498539184292,9.50,0,0
 Royal Randwick,4,2022-07-09 12:45:00,2000,BM 78,9,+9m Entire,131.28,150000,10,Kouklara,9,J.J.W.Pride,A.Adkins ,52,3500,10,10,24.47,57.70619932689839,11.00,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,1,Monfelicity (NZ),9,D.L.Payne,W.Costin ,54,46400,9,10,0,60.28582266215755,26.00,0,0
-Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,2,Cruel Summer,3,P.Perry,H.Bowman ,58.5,18400,5,5,0.12,60.27413527138433,0,0,0
+Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,2,Cruel Summer,3,P.Perry,H.Bowman ,58.5,18400,5,5,0.12,60.27413527138433,5.50,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,3,Dr Evil,11,J.A.Steinmetz,J.Collett ,60,9600,12,8,0.28,60.25855233585457,9.50,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,4,Buba,14,K.Waugh,S.Clipperton ,56.5,5200,4,4,1.77,60.11345009832558,12.00,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,5,Chateaux Park (NZ),15,J.C.Coyle,J.Ford ,56,4000,15,11,2.11,60.08034302893061,21.00,0,0
@@ -2659,7 +2659,7 @@ Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,7,So 
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,8,Deniliquin,12,J.P.Thompson,B.Ryan ,53.5,2800,13,12,6.76,59.62768639541322,31.00,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,9,Segrill,1,C.E.Conners,T.Sherry ,56.5,2800,6,6,9.67,59.34453583051843,12.00,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,10,Oakfield Missile,7,D.F.Lane,R.King ,54,2800,14,15,9.75,59.336752985168616,41.00,0,0
-Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,11,Oakfield Prince,2,D.F.Lane,T.Clark ,57,0,3,3,10.66,59.2482282607273,0,0,0
+Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,11,Oakfield Prince,2,D.F.Lane,T.Clark ,57,0,3,3,10.66,59.2482282607273,5.50,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,12,Tympanist (NZ),4,D.L.Payne,A.Adkins ,55,0,8,7,18.02,58.532596806355315,7.50,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,13,Prince Aurelius,10,T.M.Coyle,E.Hennessy (a3),59,0,1,1,22.25,58.1215857382262,16.00,0,0
 Royal Randwick,5,2022-07-09 13:20:00,1600,BM 70,9,+9m Entire,102.04,100000,14,Departing Bullet,5,P.Niceforo,A.Morgan ,55,0,7,13,54.24,55.02007343513959,41.00,0,0
@@ -2768,8 +2768,8 @@ Flemington,6,2022-07-16 15:00:00,1000,BM 78,6,Out 4m Entire Circuit,57.52,130000
 Flemington,6,2022-07-16 15:00:00,1000,BM 78,6,Out 4m Entire Circuit,57.52,130000,10,Sam's Image,1,J.D.Sadler,C.G.Gaudray (a3),57,2600,11,12,3.4,62.96759959183209,51.00,0,0
 Flemington,6,2022-07-16 15:00:00,1000,BM 78,6,Out 4m Entire Circuit,57.52,130000,11,Lord Domino,4,P.W.Burgun,S.Hunter ,56,0,4,5,4.9,62.72147777906718,21.00,0,0
 Flemington,6,2022-07-16 15:00:00,1000,BM 78,6,Out 4m Entire Circuit,57.52,130000,12,Miss Dior,12,P. & P.Snowden,D.Oliver ,56,0,10,10,5.0,62.70507211130894,8.50,0,0
-Flemington,7,2022-07-16 15:40:00,2000,Open,6,Out 4m Entire Circuit,125.54,130000,1,Hezashocka (NZ),8,M.Price & M.Kent (Jnr),J.Kah ,54,71500,11,9,0,61.40568026070815,0,3.80,1.80
-Flemington,7,2022-07-16 15:40:00,2000,Open,6,Out 4m Entire Circuit,125.54,130000,2,Mankayan (IRE),4,C.Maher & D.Eustace,M.J.Cartwright (a1.5),60,23400,5,6,0.1,61.397743913397804,0,0,1.70
+Flemington,7,2022-07-16 15:40:00,2000,Open,6,Out 4m Entire Circuit,125.54,130000,1,Hezashocka (NZ),8,M.Price & M.Kent (Jnr),J.Kah ,54,71500,11,9,0,61.40568026070815,4.00,3.80,1.80
+Flemington,7,2022-07-16 15:40:00,2000,Open,6,Out 4m Entire Circuit,125.54,130000,2,Mankayan (IRE),4,C.Maher & D.Eustace,M.J.Cartwright (a1.5),60,23400,5,6,0.1,61.397743913397804,4.00,4.00,1.70
 Flemington,7,2022-07-16 15:40:00,2000,Open,6,Out 4m Entire Circuit,125.54,130000,3,High Emocean (NZ),10,C.Maher & D.Eustace,L.Meech ,54,11700,12,12,0.85,61.33822364814738,31.00,0,5.50
 Flemington,7,2022-07-16 15:40:00,2000,Open,6,Out 4m Entire Circuit,125.54,130000,4,D'aguilar,3,P.Payne,W.J.Egan ,56.5,6500,2,2,0.95,61.330287924833776,7.50,0,0
 Flemington,7,2022-07-16 15:40:00,2000,Open,6,Out 4m Entire Circuit,125.54,130000,5,Mohican Heights (IRE),12,C.J.Waller,B.Mertens ,55,3900,9,5,1.25,61.3064811956258,51.00,0,0
@@ -3037,7 +3037,7 @@ Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remai
 Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remainder ",65.55,150000,4,Hell I Am,10,J.O'Shea,H.Bowman ,57.5,6750,2,2,4.78,61.67817200052665,9.00,0,0
 Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remainder ",65.55,150000,5,Doublesharkattack,3,C.E.Conners,B.Ryan ,54.5,5000,9,9,5.09,61.63276882097682,81.00,0,0
 Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remainder ",65.55,150000,6,Athletica,4,G.Waterhouse & A.Bott,B.Avdulla ,58.0,4000,3,4,5.4,61.58736803383935,10.00,0,0
-Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remainder ",65.55,150000,7,Voldemort,11,A.S.Neasham,J.B.McDonald ,59.0,3500,10,10,5.85,61.52146792555844,0,0,0
+Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remainder ",65.55,150000,7,Voldemort,11,A.S.Neasham,J.B.McDonald ,59.0,3500,10,10,5.85,61.52146792555844,18.00,0,0
 Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remainder ",65.55,150000,8,Celestial Spirit,2,G.Waterhouse & A.Bott,R.King ,54.0,3500,7,7,6.07,61.489251932163825,18.00,0,0
 Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remainder ",65.55,150000,9,Sweet Ride,7,A.S.Neasham,J.van Overmeire ,59.5,3500,4,6,6.34,61.449715772244176,6.50,0,0
 Rosehill Gardens,2,2022-07-30 11:55:00,1100,Open,8,"+4m 1500m-W/Post, True Remainder ",65.55,150000,10,Fire And Ice,9,M.S.Minervini,T.Schiller (a2),57.5,3500,8,5,6.41,61.43946595367595,7.00,0,0
@@ -3525,7 +3525,7 @@ Royal Randwick,1,2022-08-20 11:30:00,1100,BM 64,5,+3m Entire Course,64.73,100000
 Royal Randwick,10,2022-08-20 17:00:00,1200,BM 78,5,+3m Entire Course,71.08,150000,1,Pizarro,7,J.O'Shea,H.Bowman ,58.0,76500,11,11,0,62.25267678400602,4.40,0,0
 Royal Randwick,10,2022-08-20 17:00:00,1200,BM 78,5,+3m Entire Course,71.08,150000,2,Arbitration,6,J.A.Cummings,T.Clark ,53.5,27500,4,5,1.36,62.070323214396986,6.00,0,0
 Royal Randwick,10,2022-08-20 17:00:00,1200,BM 78,5,+3m Entire Course,71.08,150000,3,Larkspur Run,2,J.A.Cummings,S.Clipperton ,56.5,13250,5,4,1.38,62.06764182987917,6.00,0,0
-Royal Randwick,10,2022-08-20 17:00:00,1200,BM 78,5,+3m Entire Course,71.08,150000,4,Zarastro,8,C.J.Waller,J.B.McDonald ,57.5,6750,2,2,2.53,61.91347616599937,0,0,0
+Royal Randwick,10,2022-08-20 17:00:00,1200,BM 78,5,+3m Entire Course,71.08,150000,4,Zarastro,8,C.J.Waller,J.B.McDonald ,57.5,6750,2,2,2.53,61.91347616599937,10.00,0,0
 Royal Randwick,10,2022-08-20 17:00:00,1200,BM 78,5,+3m Entire Course,71.08,150000,5,Molly Nails,10,M.J.Dale,R.Jones (a1.5),54.5,5000,10,10,2.89,61.865221250006876,10.00,0,0
 Royal Randwick,10,2022-08-20 17:00:00,1200,BM 78,5,+3m Entire Course,71.08,150000,6,Conrad,3,K.Waugh,N.Rawiller ,57.0,4000,3,3,3.24,61.81830932941345,14.00,0,0
 Royal Randwick,10,2022-08-20 17:00:00,1200,BM 78,5,+3m Entire Course,71.08,150000,7,Mayrose,4,J.G.Sargent,J.Collett ,57.0,3500,6,7,3.64,61.76469882399524,10.00,0,0
@@ -4175,7 +4175,7 @@ Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,2,Larkspur 
 Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,3,Never Talk,9,K.A.Lees,D.Gibbons (a3),60.0,13050,12,6,1.39,61.7598088807595,19.00,0,0
 Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,4,Zoushack,10,J.J.W.Pride,R.Bayliss ,58.5,6700,11,13,3.05,61.53838208824357,31.00,0,0
 Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,5,Cavalier Charles,5,M.J.Dale,T.Schiller (a1.5),52.0,5000,9,10,3.18,61.52104383929465,12.00,0,0
-Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,6,Maotai,7,K.A.Fogden,T.Berry ,59.0,4000,1,2,3.41,61.49036933205116,0,0,0
+Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,6,Maotai,7,K.A.Fogden,T.Berry ,59.0,4000,1,2,3.41,61.49036933205116,6.00,0,0
 Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,7,Devil's Throat,4,P. & P.Snowden,R.Jones (a1.5),54.0,3500,8,7,3.47,61.48236746667333,7.50,0,0
 Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,8,Kinloch,13,K.A.Lees,H.Bowman ,59.5,3500,13,12,4.42,61.35568119780244,19.00,0,0
 Royal Randwick,10,2022-09-17 17:15:00,1200,BM 84,7,True,72.14,150000,9,Battleton,1,B.Baker,R.King ,58.0,3500,7,4,6.08,61.1343585385897,10.00,0,0
@@ -4502,13 +4502,13 @@ Rosehill Gardens,2,2022-09-28 14:35:00,1200,Maiden,4,+4m Entire ,69.71,53625,13,
 Rosehill Gardens,2,2022-09-28 14:35:00,1200,Maiden,4,+4m Entire ,69.71,53625,14,Enuendo,10,C.J.Waller,J.Collett ,55.5,0,11,13,9.97,61.8064502768428,41.00,0,0
 Rosehill Gardens,2,2022-09-28 14:35:00,1200,Maiden,4,+4m Entire ,69.71,53625,15,Skylight Song,2,M.Newnham,T.Sherry ,57,0,7,10,10.91,61.67876531395032,20.00,0,0
 Rosehill Gardens,2,2022-09-28 14:35:00,1200,Maiden,4,+4m Entire ,69.71,53625,16,Unholstered,15,J.J.W.Pride,R.Hutchings ,58,0,14,16,14.14,61.24016234502281,91.00,0,0
-Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,1,Rondino,4,G.D.Hickman,T.Schiller ,60,25400,5,4,0,61.51702411048181,0,5.10,2.00
+Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,1,Rondino,4,G.D.Hickman,T.Schiller ,60,25400,5,4,0,61.51702411048181,4.80,5.10,2.00
 Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,2,Deniliquin,10,J.P.Thompson,K.Latham ,58,9600,9,8,3.63,61.27654684625319,12.00,0,3.70
 Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,3,Just A Jedi,7,G.Ryan & S.Alexiou,B.Avdulla ,59.5,5200,8,9,3.99,61.25270153609093,5.50,0,2.20
 Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,4,Highland Rocker (FR),3,A.S.Neasham,C.Schofield ,60,3475,6,5,4.88,61.19375348079222,6.50,0,0
 Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,5,Brown Thomas,1,M.C.Smith,E.Hennessy ,62,2250,3,3,5.33,61.16394983007489,16.00,0,0
 Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,6,Reginald,8,A.J.Cummings,J.van Overmeire ,54,1700,1,1,6.03,61.11759066053394,31.00,0,0
-Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,7,Boyszee,6,C.Maher & D.Eustace,J.B.McDonald ,59.5,1500,2,2,6.86,61.06262519035677,0,0,0
+Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,7,Boyszee,6,C.Maher & D.Eustace,J.B.McDonald ,59.5,1500,2,2,6.86,61.06262519035677,4.80,0,0
 Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,8,Legend Has It,11,L.J.Bridge,K.McEvoy ,58,1500,11,11,8.06,60.983163298413324,15.00,0,0
 Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,9,Father's Day (IRE),9,B.Baker,D.Gibbons ,60,1500,10,10,9.43,60.892453359301825,8.50,0,0
 Rosehill Gardens,3,2022-09-28 15:10:00,2400,BM 70,4,+4m Entire ,151.0,53625,10,Fiorzana,5,D.F.Lane,R.Jones ,54,1500,7,6,9.68,60.87590149309656,61.00,0,0
@@ -4718,10 +4718,10 @@ Royal Randwick,4,2022-10-01 13:35:00,2000,Group 2,8,+3m Entire Course,126.61,100
 Royal Randwick,4,2022-10-01 13:35:00,2000,Group 2,8,+3m Entire Course,126.61,1000000,4,Yonkers (USA),1,C.J.Waller,W.A.Pike ,59.0,42000,3,5,12.73,60.47556602471513,19.00,0,0
 Royal Randwick,4,2022-10-01 13:35:00,2000,Group 2,8,+3m Entire Course,126.61,1000000,5,Elephant (NZ),4,E. & D.Browne,H.Bowman ,59,21000,6,6,22.26,59.71946919651482,20.00,0,0
 Royal Randwick,4,2022-10-01 13:35:00,2000,Group 2,8,+3m Entire Course,126.61,1000000,6,Kiss the Bride (NZ),5,B.Baker,D.Gibbons (a0),59,10000,1,4,26.45,59.38725656016146,20.00,0,0
-Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,1,Williamsburg,11,Gerald Ryan & Sterling Alexiou,K.McEvoy ,56.5,140000,11,11,0,61.217033767550674,0,4.60,2.00
+Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,1,Williamsburg,11,Gerald Ryan & Sterling Alexiou,K.McEvoy ,56.5,140000,11,11,0,61.217033767550674,4.60,4.60,2.00
 Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,2,Communist,8,M.J.Freedman,J.B.McDonald ,56.5,46250,9,7,0.71,61.146817628289064,4.80,0,1.90
 Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,3,Stroke Of Luck,10,J.O'Shea,R.Jones (a0),56.5,22400,10,10,2.03,61.01629027917787,31.00,0,8.00
-Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,4,Flag Of Honour,1,K.A.Lees,H.Bowman ,56.5,11000,5,4,2.63,60.956966265565136,0,0,0
+Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,4,Flag Of Honour,1,K.A.Lees,H.Bowman ,56.5,11000,5,4,2.63,60.956966265565136,4.60,0,0
 Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,5,Noble Conqueror,6,C.J.Waller,W.A.Pike ,56.5,6100,8,6,3.47,60.87391958496858,9.50,0,0
 Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,6,Atmosphere,4,J.A.Cummings,S.Clipperton ,56.5,4000,1,1,5.19,60.70389691445409,14.00,0,0
 Royal Randwick,5,2022-10-01 14:10:00,1600,Listed,8,+3m Entire Course,100.0,250000,7,Owen County,9,J.G.Sargent,R.Bayliss ,56.5,3500,7,8,5.36,60.68709419625577,9.50,0,0
@@ -4808,14 +4808,14 @@ Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,
 Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,7,See You In Heaven,12,R. & C.Jolly,M.J.Dee ,58,4000,12,12,2.15,62.73897544981941,26.00,0,0
 Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,8,Wee Nessy,3,M.Price & M.Kent (Jnr),J.B.McDonald ,56,4000,4,5,2.35,62.71183012363226,16.00,0,0
 Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,9,Sweetened,14,B. & JD.Hayes,D.Oliver ,56,0,14,14,2.55,62.684685637921,7.50,0,0
-Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,10,Troach,13,J.A.Cummings,C.Williams ,57,0,1,1,2.75,62.65754199299748,0,0,0
+Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,10,Troach,13,J.A.Cummings,C.Williams ,57,0,1,1,2.75,62.65754199299748,6.50,0,0
 Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,11,Lady Laguna,8,A.S.Neasham,T.Clark ,56,0,2,2,2.95,62.63039918917384,10.00,0,0
 Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,12,Cholante,4,C.E.Conners,J.McNeil ,56,0,10,10,3.15,62.60325722676241,17.00,0,0
-Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,13,Nanagui,5,P.G.Moody,L.Nolen ,57,0,13,11,6.15,62.19622897320348,0,0,0
+Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,13,Nanagui,5,P.G.Moody,L.Nolen ,57,0,13,11,6.15,62.19622897320348,6.50,0,0
 Caulfield,3,2022-10-08 13:25:00,1200,Group 3,6,True Entire Circuit,70.55,200000,14,Lovetta,10,A. & S.Freedman,D.Moor ,56,0,9,7,10.9,61.55215749650507,31.00,0,0
-Caulfield,4,2022-10-08 14:00:00,1200,Listed,6,True Entire Circuit,70.85,175000,1,Gravina,7,J.A.Cummings,B.Shinn ,56.5,105000,4,4,0,62.76394935324601,0,5.80,2.30
+Caulfield,4,2022-10-08 14:00:00,1200,Listed,6,True Entire Circuit,70.85,175000,1,Gravina,7,J.A.Cummings,B.Shinn ,56.5,105000,4,4,0,62.76394935324601,6.00,5.80,2.30
 Caulfield,4,2022-10-08 14:00:00,1200,Listed,6,True Entire Circuit,70.85,175000,2,Nicolini Vito,6,B. & JD.Hayes,C.Williams ,54,31500,9,10,1.0,62.628760881759526,14.00,0,4.40
-Caulfield,4,2022-10-08 14:00:00,1200,Listed,6,True Entire Circuit,70.85,175000,3,Zethus,14,J.A.Cummings,J.Kah ,54,15750,3,3,1.4,62.57469133479514,0,0,2.50
+Caulfield,4,2022-10-08 14:00:00,1200,Listed,6,True Entire Circuit,70.85,175000,3,Zethus,14,J.A.Cummings,J.Kah ,54,15750,3,3,1.4,62.57469133479514,6.00,0,2.50
 Caulfield,4,2022-10-08 14:00:00,1200,Listed,6,True Entire Circuit,70.85,175000,4,Triple Missile,15,L.Smith,C.Newitt ,57.5,7875,14,14,1.8,62.520625129611744,7.00,0,0
 Caulfield,4,2022-10-08 14:00:00,1200,Listed,6,True Entire Circuit,70.85,175000,5,Crosshaven,10,B. & JD.Hayes,M.Zahra ,59,4375,10,8,2.0,62.493593280961626,20.00,0,0
 Caulfield,4,2022-10-08 14:00:00,1200,Listed,6,True Entire Circuit,70.85,175000,6,Amish Boy,9,C.Maher & D.Eustace,J.B.McDonald ,56.5,3500,6,6,2.5,62.426017319151676,12.00,0,0
@@ -5161,8 +5161,8 @@ Royal Randwick,1,2022-10-15 12:30:00,1400,Listed,7,True,83.94,160000,14,Lonrioli
 Royal Randwick,1,2022-10-15 12:30:00,1400,Listed,7,True,83.94,160000,15,Wingardium,8,B.Baker,D.M.Lane ,59,0,3,3,15.4,61.06680528523631,14.00,0,0
 Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,1,Hope In Your Heart,11,K.Parker,C.Williams ,56,110000,7,7,0,62.32116214014691,10.00,10.00,3.30
 Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,2,Honeycreeper,3,J.A.Cummings,N.Rawiller ,56,36375,8,8,0.2,62.301025608987274,7.50,0,2.50
-Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,3,Finepoint,2,C.J.Waller,K.McEvoy ,54,17500,6,6,1.41,62.17920952844381,0,0,1.70
-Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,4,Polly Grey (NZ),6,C.J.Waller,H.Bowman ,56.5,8750,1,1,1.56,62.1641095499856,0,0,0
+Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,3,Finepoint,2,C.J.Waller,K.McEvoy ,54,17500,6,6,1.41,62.17920952844381,4.60,0,1.70
+Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,4,Polly Grey (NZ),6,C.J.Waller,H.Bowman ,56.5,8750,1,1,1.56,62.1641095499856,4.60,0,0
 Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,5,Ita,9,B.Baker,R.King ,54,5375,3,4,3.5,61.968840154395046,15.00,0,0
 Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,6,Gin Martini (NZ),4,J.G.Sargent,R.Dolan ,54,4000,5,5,4.33,61.88531049618946,26.00,0,0
 Royal Randwick,10,2022-10-15 18:10:00,1600,Group 3,6,True,97.27,200000,7,Narrated,5,C.Maher & D.Eustace,A.Adkins ,54,3500,4,3,5.34,61.78367685010731,21.00,0,0
@@ -5328,20 +5328,20 @@ Royal Randwick,3,2022-10-22 13:40:00,1200,BM 70,6,+4m Entire Course,72.41,120000
 Royal Randwick,3,2022-10-22 13:40:00,1200,BM 70,6,+4m Entire Course,72.41,120000,12,Eyewitness,7,K.L.Buchanan,K.McEvoy ,58,0,1,2,6.77,60.516655424915015,11.00,0,0
 Royal Randwick,3,2022-10-22 13:40:00,1200,BM 70,6,+4m Entire Course,72.41,120000,13,Rahni Factor,10,G.S.McFarlane,G.Schofield ,54,0,4,7,15.82,59.32157241277917,19.00,0,0
 Royal Randwick,3,2022-10-22 13:40:00,1200,BM 70,6,+4m Entire Course,72.41,120000,14,Miss Redoble,12,T.J.Bartley,D.Gibbons (a2),58,0,14,14,18.8,58.928428298749495,19.00,0,0
-Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,1,Mahagoni (GB),4,D.L.Payne,B.Shinn ,56.5,76250,7,7,0,61.52420015601432,0,3.90,2.00
+Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,1,Mahagoni (GB),4,D.L.Payne,B.Shinn ,56.5,76250,7,7,0,61.52420015601432,4.80,3.90,2.00
 Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,2,Naval Seal,2,C.J.Waller,W.A.Pike ,54.5,27250,3,4,0.44,61.48046690651153,5.00,0,1.80
 Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,3,Philipsburg (NZ),6,J.Ponsonby,K.Jennings ,59,13050,4,3,0.82,61.44269907259782,18.00,0,4.50
-Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,4,Willinga Rufio,3,M.Newnham,T.Schiller (a1.5),58,6700,1,1,1.18,61.406920551159196,0,0,0
+Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,4,Willinga Rufio,3,M.Newnham,T.Schiller (a1.5),58,6700,1,1,1.18,61.406920551159196,4.80,0,0
 Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,5,One Aye,5,"B.Joseph, P. & M.Jones",Q.Krogh ,56,5000,6,6,2.79,61.2469293089268,14.00,0,0
 Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,6,Olympic Theatre (GB),1,R. & W.Freedman,K.McEvoy ,58,4000,5,5,3.97,61.12968762460456,18.00,0,0
 Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,7,Colour Sergeant (IRE),7,M.C.Smith,R.Bayliss ,57,3500,9,8,4.41,61.08597450143181,19.00,0,0
 Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,8,Cognac (IRE),8,R. & W.Freedman,K.Latham ,59.5,3500,2,2,4.55,61.07206624957924,13.00,0,0
 Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,9,Kermanding,10,P. & P.Snowden,S.Clipperton ,55.5,3500,10,9,6.11,60.917103924041754,6.50,0,0
 Royal Randwick,4,2022-10-22 14:15:00,1600,BM 78,6,+4m Entire Course,98.53,150000,10,O'mudgee (NZ),9,B.Baker,R.King ,59.5,3500,8,10,11.53,60.378928706223185,12.00,0,0
-Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,1,Diamil (IRE),4,J.O'Shea,R.Bayliss ,54.5,82500,6,5,0,61.43690525359369,0,4.30,1.70
+Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,1,Diamil (IRE),4,J.O'Shea,R.Bayliss ,54.5,82500,6,5,0,61.43690525359369,4.40,4.30,1.70
 Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,2,Purple Sector (NZ),5,J.P.Thompson,B.Shinn ,57,29200,2,2,0.28,61.409114234423235,6.50,0,2.10
 Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,3,Yiyi,7,C.J.Waller,K.McEvoy ,53.5,14000,9,8,3.15,61.124308218910926,6.50,0,2.10
-Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,4,War Eternal (NZ),2,B.Baker,R.King ,52,7100,4,4,3.23,61.116370732945605,0,0,0
+Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,4,War Eternal (NZ),2,B.Baker,R.King ,52,7100,4,4,3.23,61.116370732945605,4.40,0,0
 Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,5,Bonny Ezra (NZ),8,C.J.Waller,J.Ford ,52,5200,7,9,3.86,61.053865608489055,15.00,0,0
 Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,6,Palmetto (NZ),3,J.G.Sargent,T.Schiller (a0),52,4000,3,3,4.45,60.995333213639846,11.00,0,0
 Royal Randwick,5,2022-10-22 14:50:00,1600,Quality,6,+4m Entire Course,98.67,160000,7,Criaderas,1,J.A.Cummings,G.Schofield ,54.5,3500,5,7,5.25,60.91597367219289,19.00,0,0
@@ -5385,9 +5385,9 @@ Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000
 Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,6,Forbidden Love,2,M.J.Freedman,B.Shinn ,59.5,40000,3,4,2.56,61.4360176002566,7.00,0,0
 Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,7,Expat (NZ),4,M.Newnham,J.Parr ,58,30000,1,1,2.77,61.41209201811117,19.00,0,0
 Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,8,Sheeza Belter,1,P. & P.Snowden,W.A.Pike ,54,30000,7,7,3.16,61.3676605631999,10.00,0,0
-Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,9,Icebath (NZ),3,B.S.Widdup,T.Sherry ,59,30000,12,12,3.2,61.363103620979864,0,0,0
+Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,9,Icebath (NZ),3,B.S.Widdup,T.Sherry ,59,30000,12,12,3.2,61.363103620979864,5.50,0,0
 Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,10,Swats That,10,C.Maher & D.Eustace,K.Latham ,58,30000,5,3,3.45,61.33462328059861,14.00,0,0
-Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,11,Espiona,6,C.J.Waller,B.Avdulla ,58,0,10,8,3.48,61.33120570331327,0,0,0
+Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,11,Espiona,6,C.J.Waller,B.Avdulla ,58,0,10,8,3.48,61.33120570331327,10.00,0,0
 Royal Randwick,9,2022-10-22 17:30:00,1400,Open,6,+4m Entire Course,85.05,2000000,12,Barb Raider,11,J.Hunter,W.T.Price (a0),58,0,6,10,8.82,60.72309457804092,21.00,0,0
 Flemington,1,2022-10-29 12:20:00,1600,Group 3,7,True Entire Circuit,97.89,500000,1,Perfect Thought,8,J.G.Sargent,C.Williams ,57,303025,8,6,0,62.231498713490446,26.00,28.10,6.00
 Flemington,1,2022-10-29 12:20:00,1600,Group 3,7,True Entire Circuit,97.89,500000,2,Elkington Road,10,M.D.Moroney,J.Mott ,57,90000,11,8,1.75,62.055573334679764,9.00,0,2.80
@@ -5512,13 +5512,13 @@ Flemington,9,2022-10-29 17:40:00,1100,Group 3,7,True Entire Circuit,64.71,200000
 Flemington,9,2022-10-29 17:40:00,1100,Group 3,7,True Entire Circuit,64.71,200000,15,Fituese,16,J.P.Thompson,B.Prebble ,57,0,11,8,8.35,61.64711493641852,61.00,0,0
 Flemington,9,2022-10-29 17:40:00,1100,Group 3,7,True Entire Circuit,64.71,200000,16,Belluci Babe (NZ),7,B.Baker,C.Newitt ,57,0,10,13,18.35,60.17285285751422,26.00,0,0
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,1,Pokerjack,12,N.Burleigh,A.McLucas (a3),57.5,55000,4,6,0,62.03176556687539,20.00,20.80,6.20
-Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,2,The Dramatist,5,R.Northam,R.Jones (a1.5),56,21750,11,8,0.6,61.95159624965364,0,0,3.20
+Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,2,The Dramatist,5,R.Northam,R.Jones (a1.5),56,21750,11,8,0.6,61.95159624965364,10.00,0,3.20
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,3,Sir Ravanelli (NZ),10,T.Evans,R.Bayliss ,57.5,11250,10,12,1.44,61.839371673501745,11.00,0,3.50
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,4,Proverbial,15,L.Mary,W.A.Pike ,56.5,6250,1,1,1.46,61.83669983723253,15.00,0,0
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,5,King's Trust,7,T.Robinson,J.Ford ,54,4750,14,13,1.81,61.7899440395427,16.00,0,0
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,6,Transformation,8,M.J.O'Gorman,H.Bowman ,56.5,4000,7,5,2.09,61.75254122336164,21.00,0,0
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,7,Ezekeil,1,C.G.Morgan,T.Schiller (a1.5),60.5,3500,5,3,2.4,61.711132852793924,9.00,0,0
-Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,8,King Gutho,11,J.Cleary,T.Berry ,59.5,3500,13,14,2.44,61.705789981977986,0,0,0
+Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,8,King Gutho,11,J.Cleary,T.Berry ,59.5,3500,13,14,2.44,61.705789981977986,7.50,0,0
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,9,Tap 'N' Run,18,R.Stubbs,J.Childs ,61,3500,9,10,2.52,61.69510433962358,21.00,0,0
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,10,Brazen Impact,3,D.A.J.Williams,T.Clark ,54.5,3500,8,7,2.78,61.66037691636686,20.00,0,0
 Rosehill Gardens,1,2022-10-29 12:10:00,1200,BM 70,4,True,70.98,120000,11,Aytobe,4,C.G.Morgan,K.Jennings ,56.5,0,12,11,3.21,61.60294617145921,26.00,0,0
@@ -5604,7 +5604,7 @@ Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,2,Fangirl
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,3,Gypsy Goddess (NZ),5,D.J.Vandyke,W.A.Pike ,55.5,1000000,10,7,0.84,63.398345321492144,12.00,0,3.70
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,4,Hope In Your Heart,8,K.Parker,J.Collett ,55.5,500000,15,14,1.26,63.35239877218277,51.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,5,Hinged,16,C.J.Waller,K.McEvoy ,55.5,250000,14,15,1.64,63.310830138496115,14.00,0,0
-Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,6,Light Infantry (FR),6,C.Maher & D.Eustace,J.P.Spencer ,56.5,175000,13,13,1.95,63.27692033057074,0,0,0
+Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,6,Light Infantry (FR),6,C.Maher & D.Eustace,J.P.Spencer ,56.5,175000,13,13,1.95,63.27692033057074,5.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,7,In The Congo,3,G.Waterhouse & A.Bott,T.Clark ,57.5,120000,1,1,4.01,63.05161723401904,16.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,8,Vilana,20,J.A.Cummings,N.Rawiller ,57.5,120000,16,19,4.79,62.966323312088235,16.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,9,Overpass,2,B.Baker,R.King ,57.5,100000,6,6,5.07,62.93570699635124,21.00,0,0
@@ -5612,7 +5612,7 @@ Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,10,Cardin
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,11,Jimmy The Bear,14,P.Payne,K.Latham ,57.5,30000,17,17,5.66,62.871197533392156,61.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,12,Converge,12,G.Waterhouse & A.Bott,R.Bayliss ,57.5,30000,20,20,6.89,62.73672693180312,51.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,13,Mr Mozart,19,M. & W. & J.Hawkes,B.Avdulla ,57.5,20000,2,2,6.94,62.731261082947505,26.00,0,0
-Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,14,Chain Of Lightning,1,P.G.Moody,J.Kah ,55.5,20000,4,3,7.09,62.71486374078939,0,0,0
+Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,14,Chain Of Lightning,1,P.G.Moody,J.Kah ,55.5,20000,4,3,7.09,62.71486374078939,5.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,15,Lightsaber,11,P.G.Moody,T.Sherry ,57.5,20000,12,16,8.07,62.60774198853286,151.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,16,Hilal,13,M. & W. & J.Hawkes,J.Ford ,57.5,20000,18,18,8.94,62.51265509034753,101.00,0,0
 Rosehill Gardens,8,2022-10-29 16:45:00,1500,Open,4,True,88.19,10020000,17,Welwal (GB),7,C.J.Waller,L.Dettori ,56.5,10000,8,8,9.09,62.49626184273692,17.00,0,0
@@ -5700,7 +5700,7 @@ Flemington,4,2022-11-01 12:40:00,1800,Listed,5,Out 2m Entire Circuit,113.52,1750
 Flemington,4,2022-11-01 12:40:00,1800,Listed,5,Out 2m Entire Circuit,113.52,175000,10,Quang Tri,11,P.Payne,M.J.Dee ,56,0,7,9,13.1,59.19003033849293,2.50,0,0
 Flemington,4,2022-11-01 12:40:00,1800,Listed,5,Out 2m Entire Circuit,113.52,175000,11,Born Hustler,4,J.D.Warren,C.Williams ,55,0,8,11,19.1,58.671125695910966,31.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,1,Renosu,14,J.A.Cummings,B.Shinn ,57,84125,3,3,0,62.715627668659266,31.00,32.70,10.20
-Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,2,Kin,4,J.A.Cummings,J.Kah ,55,27000,9,10,1.75,62.431974537212945,0,0,2.40
+Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,2,Kin,4,J.A.Cummings,J.Kah ,55,27000,9,10,1.75,62.431974537212945,5.50,0,2.40
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,3,Boldinho,13,C.Maher & D.Eustace,E.P.Brown ,57,13500,7,6,2.5,62.31043709971144,9.50,0,3.60
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,4,Crosswinds,15,A. & S.Freedman,M.Zahra ,58,7500,10,11,2.7,62.27802997871367,16.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,5,Hallstatt,11,G.Richards & D.Moyle,D.Oliver ,57,4500,16,14,2.8,62.26182687051513,31.00,0,0
@@ -5709,18 +5709,18 @@ Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,8,She Daresthe Devil,10,R.Besanko,T.M.Nugent ,55,3000,8,8,3.95,62.07551282234389,61.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,9,Katsu,5,G.M.Begg,J.Childs ,57,3000,4,1,5.2,61.87304291585396,13.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,10,Port Albert,9,N.R.Ryan,F.W.Kersley ,57,3000,12,13,5.5,61.824457183779785,21.00,0,0
-Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,11,Selous,16,J.A.Cummings,J.B.McDonald ,57,0,15,16,6.0,61.74348703358168,0,0,0
+Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,11,Selous,16,J.A.Cummings,J.B.McDonald ,57,0,15,16,6.0,61.74348703358168,10.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,12,Pyrois,8,M. & W. & J.Hawkes,H.Bowman ,57,0,13,12,6.5,61.66252447818006,18.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,13,Fission,3,R.Griffiths & M.de Kock,P.M.Moloney ,57.5,0,11,9,7.25,61.54109490401774,18.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,14,Xtravagant Star,12,T. & C.McEvoy,K.McEvoy ,56,0,1,2,7.35,61.52490558825053,18.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,15,Shalaman,6,M.Laurie,B.J.Melham ,57.5,0,2,5,12.35,60.71582975270127,18.00,0,0
 Flemington,5,2022-11-01 13:20:00,1000,Open,7,Out 2m Entire Circuit,58.55,150000,16,Zou Sensation,1,L. & T.Corstens,T.Berry ,57,0,6,4,13.1,60.5945346178294,26.00,0,0
 Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,1,Bartholomeu Dias (GB),11,A.S.Neasham,T.Berry ,55,106725,13,10,0,61.89183616762196,31.00,28.50,7.50
-Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,2,Just Folk,12,J.J.Julius,H.Bowman ,60,31500,6,6,0.5,61.84739721315772,0,0,2.50
+Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,2,Just Folk,12,J.J.Julius,H.Bowman ,60,31500,6,6,0.5,61.84739721315772,10.00,0,2.50
 Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,3,Lord Vladivostok (NZ),4,M.J.Hickmott,D.M.Lane ,54,15750,5,5,0.9,61.811847693945346,9.00,0,3.60
 Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,4,Dynasties,5,P. & P.Snowden,C.Williams ,54,7875,7,9,1.4,61.76741285156056,9.50,0,0
 Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,5,White Noise (NZ),6,A.Forsman,D.Holland ,54,4375,4,4,2.9,61.63412204880915,8.50,0,0
-Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,6,Bermadez (NZ),8,M.D.Moroney,D.Oliver ,54,3500,8,8,3.1,61.61635149861613,0,0,0
+Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,6,Bermadez (NZ),8,M.D.Moroney,D.Oliver ,54,3500,8,8,3.1,61.61635149861613,6.00,0,0
 Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,7,Future Score (IRE),10,M.S.S.Cumani,F.W.Kersley ,54,3500,12,12,3.3,61.59858131502516,101.00,0,0
 Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,8,Character,9,J.A.Cummings,J.Kah ,55,3500,9,7,3.4,61.58969636073375,8.00,0,0
 Flemington,6,2022-11-01 13:55:00,1800,Listed,7,Out 2m Entire Circuit,111.74,175000,9,Regal Lion (NZ),3,A.S.Neasham,B.McDougall ,55,0,10,11,3.5,61.58081149812682,20.00,0,0
@@ -5836,13 +5836,13 @@ Royal Randwick,4,2022-11-01 13:40:00,1300,BM 64,3,+2m Entire,76.73,125000,9,Vill
 Royal Randwick,4,2022-11-01 13:40:00,1300,BM 64,3,+2m Entire,76.73,125000,10,Vivid Flash,3,C.J.Waller,W.A.Pike ,58,3500,3,3,4.19,61.72012902595104,10.00,0,0
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,1,Rustic Steel,7,K.A.Lees,N.Rawiller ,59,1050000,11,9,0,63.62409223711118,12.00,13.20,3.80
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,2,Cisco Bay,11,G.Ryan & S.Alexiou,T.Schiller (a0),52.5,400000,17,14,0.16,63.60764618336631,9.50,0,3.50
-Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,3,Sibaaq (GB),2,A.S.Neasham,C.Schofield ,56.5,200000,9,6,1.72,63.447313109624346,0,0,2.60
+Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,3,Sibaaq (GB),2,A.S.Neasham,C.Schofield ,56.5,200000,9,6,1.72,63.447313109624346,6.50,0,2.60
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,4,Surf Dancer (IRE),5,G.Waterhouse & A.Bott,R.Bayliss ,61,100000,1,1,3.59,63.25515716830861,12.00,0,0
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,5,Wicklow (IRE),20,C.J.Waller,J.Ford ,52,50000,18,18,4.22,63.1904295357401,11.00,0,0
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,6,Ready To Humble,1,N.J.Olive,J.Penza ,54,40000,4,3,4.4,63.17193679729826,101.00,0,0
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,7,One Aye,3,"B.Joseph, P. & M.Jones",Q.Krogh ,52,27500,12,13,4.48,63.16371792672498,71.00,0,0
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,8,Aleas (GB),4,C.J.Waller,J.M.Orman ,56.5,27500,10,11,5.48,63.060988501846154,21.00,0,0
-Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,9,Quality Time (GER),9,C.J.Waller,W.A.Pike ,54,27500,7,4,5.54,63.05482511681749,0,0,0
+Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,9,Quality Time (GER),9,C.J.Waller,W.A.Pike ,54,27500,7,4,5.54,63.05482511681749,10.00,0,0
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,10,Kedah (NZ),19,K.A.Lees,D.Gibbons (a0),53,27500,20,20,5.7,63.038389634098586,101.00,0,0
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,11,Bandersnatch,18,M. & W. & J.Hawkes,B.Avdulla ,61,0,3,2,6.84,62.9212956959088,11.00,0,0
 Royal Randwick,5,2022-11-01 14:20:00,1600,Quality,3,+2m Entire,93.87,2000000,12,Casino Kid,6,J.L.Bowen,G.Buckley ,52,0,15,12,8.25,62.776490544730464,9.00,0,0
@@ -5967,8 +5967,8 @@ Flemington,4,2022-11-03 14:30:00,1400,Listed,4,Out 5m Entire Circuit,82.92,17500
 Flemington,4,2022-11-03 14:30:00,1400,Listed,4,Out 5m Entire Circuit,82.92,175000,15,Far From Discreet,1,P.J.Stokes,Z.Spain ,56,0,4,4,6.5,61.93754957973758,71.00,0,0
 Flemington,4,2022-11-03 14:30:00,1400,Listed,4,Out 5m Entire Circuit,82.92,175000,16,Amati,4,C.J.Waller,J.B.McDonald ,56,0,8,8,7.75,61.793002179647765,9.00,0,0
 Flemington,5,2022-11-03 15:10:00,1800,BM 90,4,Out 5m Entire Circuit,110.01,150000,1,Carlisle,11,J.F.Moloney,B.McDougall ,54,84325,2,2,0,61.94065015691024,21.00,22.40,6.10
-Flemington,5,2022-11-03 15:10:00,1800,BM 90,4,Out 5m Entire Circuit,110.01,150000,2,Alcyone,3,J.A.Cummings,J.B.McDonald ,59,27000,6,5,1.0,61.8517044358484,0,0,1.70
-Flemington,5,2022-11-03 15:10:00,1800,BM 90,4,Out 5m Entire Circuit,110.01,150000,3,Right You Are,7,C.Maher & D.Eustace,B.J.Melham ,54.5,13500,7,8,1.1,61.84281036672608,0,0,1.70
+Flemington,5,2022-11-03 15:10:00,1800,BM 90,4,Out 5m Entire Circuit,110.01,150000,2,Alcyone,3,J.A.Cummings,J.B.McDonald ,59,27000,6,5,1.0,61.8517044358484,3.80,0,1.70
+Flemington,5,2022-11-03 15:10:00,1800,BM 90,4,Out 5m Entire Circuit,110.01,150000,3,Right You Are,7,C.Maher & D.Eustace,B.J.Melham ,54.5,13500,7,8,1.1,61.84281036672608,3.80,0,1.70
 Flemington,5,2022-11-03 15:10:00,1800,BM 90,4,Out 5m Entire Circuit,110.01,150000,4,Saint Bathans,6,A.Forsman,D.Holland ,55,7500,4,3,1.2,61.83391638910041,6.00,0,0
 Flemington,5,2022-11-03 15:10:00,1800,BM 90,4,Out 5m Entire Circuit,110.01,150000,5,Shibli (GB),8,C.J.Waller,K.McEvoy ,55,4500,1,1,2.2,61.74498164764404,11.00,0,0
 Flemington,5,2022-11-03 15:10:00,1800,BM 90,4,Out 5m Entire Circuit,110.01,150000,6,Fifth Position (IRE),4,M.Price & M.Kent (Jnr),D.Oliver ,55,3000,9,9,2.4,61.7271957984419,12.00,0,0
@@ -6059,14 +6059,14 @@ Flemington,2,2022-11-05 13:15:00,2000,BM 78,4,Out 9m Entire Circuit,122.68,15000
 Flemington,2,2022-11-05 13:15:00,2000,BM 78,4,Out 9m Entire Circuit,122.68,150000,11,Uniquely,12,D.O'Sullivan,Z.Spain ,55.5,0,13,12,4.75,61.8362436751095,81.00,0,0
 Flemington,2,2022-11-05 13:15:00,2000,BM 78,4,Out 9m Entire Circuit,122.68,150000,12,Tycoon Bec,2,M.S.S.Cumani,F.W.Kersley ,55.5,0,3,5,6.25,61.715684368467414,8.00,0,0
 Flemington,2,2022-11-05 13:15:00,2000,BM 78,4,Out 9m Entire Circuit,122.68,150000,13,Legionnaire,11,J.F.Moloney,J.Fry ,56,0,1,2,8.75,61.514789635638664,71.00,0,0
-Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,1,Magic Time,11,G.M.Begg,J.Childs ,54,108025,4,4,0,62.62916032862614,0,7.90,3.30
+Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,1,Magic Time,11,G.M.Begg,J.Childs ,54,108025,4,4,0,62.62916032862614,7.90,7.90,3.30
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,2,Atmosphere,10,J.A.Cummings,J.Kah ,54.5,31500,1,1,0.75,62.54243770265519,12.00,0,3.70
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,3,Get Up Girl,13,C.W.McDonald,B.McDougall ,54,15750,13,7,1.75,62.42682091567704,51.00,0,9.50
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,4,El Padrino,4,C.Maher & D.Eustace,J.Allen ,57,7875,6,6,2.75,62.311219443497734,26.00,0,0
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,5,Atlantic Ocean,6,C.J.Waller,D.Oliver ,54,4375,7,8,3.15,62.264983148220104,17.00,0,0
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,6,Shuriken,1,S.W.Wilde,D.Yendall ,54,3500,5,5,3.35,62.2418659214175,51.00,0,0
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,7,Kings Consort,15,A. & S.Freedman,M.Zahra ,57.5,3500,15,15,4.35,62.12628900358633,21.00,0,0
-Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,8,Sweetened,9,B. & JD.Hayes,C.Williams ,54,3500,3,3,4.65,62.09161892588247,0,0,0
+Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,8,Sweetened,9,B. & JD.Hayes,C.Williams ,54,3500,3,3,4.65,62.09161892588247,10.00,0,0
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,9,Sandpaper,14,J.A.Cummings,J.B.McDonald ,60,0,11,13,4.75,62.08006254099409,10.00,0,0
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,10,Angry Skies,12,B. & JD.Hayes,L.Nolen ,57.5,0,12,14,4.95,62.05695023288391,9.00,0,0
 Flemington,3,2022-11-05 13:50:00,1400,Listed,4,Out 9m Entire Circuit,83.0,175000,11,Zamborghini,2,M.Laurie,B.J.Melham ,55.5,0,14,11,5.15,62.033838540492944,12.00,0,0
@@ -6502,12 +6502,12 @@ Rosehill Gardens,6,2022-12-03 15:20:00,2000,BM 78,3,+5m Entire,122.24,150000,9,M
 Rosehill Gardens,6,2022-12-03 15:20:00,2000,BM 78,3,+5m Entire,122.24,150000,10,Onemore Sapphire,5,T.J.Bartley,R.Bayliss ,54,3500,12,11,6.36,61.620852085983245,19.00,0,0
 Rosehill Gardens,6,2022-12-03 15:20:00,2000,BM 78,3,+5m Entire,122.24,150000,11,Shibli (GB),2,C.J.Waller,J.Collett ,59.5,0,7,7,13.21,61.07128502647809,6.50,0,0
 Rosehill Gardens,6,2022-12-03 15:20:00,2000,BM 78,3,+5m Entire,122.24,150000,12,Ocean Miss,7,D. & C.Feek,J.Noonan ,57.5,0,6,12,46.07,58.43993231524212,16.00,0,0
-Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,1,Vreneli,7,G.Waterhouse & A.Bott,R.Jones (a1.5),59,76250,1,1,0,63.30167857342123,0,7.00,2.50
+Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,1,Vreneli,7,G.Waterhouse & A.Bott,R.Jones (a1.5),59,76250,1,1,0,63.30167857342123,5.50,7.00,2.50
 Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,2,Rainbow Connection,4,M.J.Dunn,R.Bayliss ,60.5,27250,4,4,0.2,63.274407551980126,7.00,0,2.30
 Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,3,Soami,3,D.A.Pfieffer,J.Collett ,58.5,13050,5,5,0.41,63.24577388431412,10.00,0,3.20
 Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,4,Broken Arrows,8,D.A.Pfieffer,K.McEvoy ,56.5,6700,7,7,0.47,63.2375930067088,13.00,0,0
 Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,5,Luvoir,6,J.Attard & L.Keegan-Attard,R.Hutchings ,57,5000,3,2,1.64,63.07808103508556,101.00,0,0
-Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,6,Devil's Throat,10,P. & P.Snowden,S.Clipperton ,58.5,4000,10,8,1.98,63.031732535840554,0,0,0
+Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,6,Devil's Throat,10,P. & P.Snowden,S.Clipperton ,58.5,4000,10,8,1.98,63.031732535840554,5.50,0,0
 Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,7,Testator Silens,1,L.Clarke,W.Costin ,58,3500,6,9,2.09,63.01673795499038,7.00,0,0
 Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,8,Starboreta,2,N.C.Doyle,T.Clark ,55,3500,9,11,3.25,62.85862883067424,10.00,0,0
 Rosehill Gardens,7,2022-12-03 16:00:00,1200,BM 78,3,+5m Entire,69.21,150000,9,Amathuba,5,R. & W.Freedman,T.Berry ,54,3500,2,3,3.56,62.81638034385,6.00,0,0
@@ -7049,8 +7049,8 @@ Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,3,Regal Pom,1
 Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,4,Kahawaty,6,A.J.Cummings,D.Gibbons (a2),61.5,3600,3,4,0.45,62.60670163649058,6.00,0,0
 Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,5,De Forerunner,10,D.R.Mirfin,R.Jones (a1.5),58.5,2350,2,2,0.81,62.5581095908635,41.00,0,0
 Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,6,Vientiane,11,J.A.Cummings,Z.T.Lloyd (a2),59.5,1800,7,7,1.62,62.44878736183819,8.50,0,0
-Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,7,Richon,12,P.T.Robl,R.Hutchings ,59,1625,1,1,1.73,62.43394218839243,0,0,0
-Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,8,Beer Palace (NZ),4,M.Newnham,J.Collett ,57.5,1625,12,10,2.46,62.335430619361595,0,0,0
+Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,7,Richon,12,P.T.Robl,R.Hutchings ,59,1625,1,1,1.73,62.43394218839243,10.00,0,0
+Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,8,Beer Palace (NZ),4,M.Newnham,J.Collett ,57.5,1625,12,10,2.46,62.335430619361595,4.60,0,0
 Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,9,Treasurer,8,B.S.Widdup,R.King ,56,1625,10,11,2.59,62.31788863083132,31.00,0,0
 Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,10,Arranmore,3,C.J.Waller,J.M.Orman ,57.5,1625,8,8,2.64,62.31114180621144,10.00,0,0
 Royal Randwick,8,2022-12-26 18:00:00,1200,BM 64,4,True,70.26,60000,11,Carartie,7,J.O'Shea,B.Coen ,59,0,11,12,3.21,62.23423170011635,15.00,0,0
@@ -7322,10 +7322,10 @@ Rosehill Gardens,8,2023-01-07 16:40:00,1500,BM 78,7,True,92.02,150000,10,Estreet
 Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,1,Logan Street Lion (NZ),3,C.J.Waller,T.Berry ,60.5,76250,4,4,0,60.958957896607124,7.50,6.70,2.20
 Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,2,Mahagoni (GB),8,D.L.Payne,D.Gibbons (a2),59.5,27250,8,8,0.24,60.937948429438876,6.00,0,2.10
 Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,3,Yukon,5,M. & W. & J.Hawkes,K.Jennings ,57.5,13050,1,1,3.42,60.65962196226727,19.00,0,5.30
-Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,4,First Light (GB),6,C.J.Waller,N.Rawiller ,57,6700,3,2,3.77,60.62899411815533,0,0,0
+Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,4,First Light (GB),6,C.J.Waller,N.Rawiller ,57,6700,3,2,3.77,60.62899411815533,10.00,0,0
 Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,5,Dr Evil,2,J.A.Steinmetz,J.Parr ,57,5000,6,7,3.8,60.62636892586354,5.50,0,0
 Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,6,Lovely Esteem (GB),7,C.J.Waller,B.Coen ,58,4000,9,9,4.1,60.60011745021409,12.00,0,0
-Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,7,Naval Seal,1,C.J.Waller,J.Ford ,54,3500,5,5,4.15,60.59574228334755,0,0,0
+Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,7,Naval Seal,1,C.J.Waller,J.Ford ,54,3500,5,5,4.15,60.59574228334755,5.00,0,0
 Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,8,Worthily (USA),10,C.Maher & D.Eustace,R.Bayliss ,60,3500,10,10,4.23,60.58874206336255,8.50,0,0
 Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,9,Yggdrasil (NZ),4,C.J.Waller,S.Clipperton ,55,3500,7,6,4.39,60.57474179695729,31.00,0,0
 Rosehill Gardens,9,2023-01-07 17:20:00,1800,BM 78,7,True,113.45,150000,10,Tavion Prince (NZ),9,C.K.Martin,R.King ,58,3500,2,3,8.51,60.214314783146314,41.00,0,0
@@ -7614,8 +7614,8 @@ Royal Randwick,8,2023-01-21 16:40:00,1400,BM 78,5,+4m Entire,83.43,150000,8,Al M
 Royal Randwick,8,2023-01-21 16:40:00,1400,BM 78,5,+4m Entire,83.43,150000,9,Go Troppo,9,D.A.Pfieffer,J.Collett ,56,3500,10,8,4.08,62.14477963443657,19.00,0,0
 Royal Randwick,8,2023-01-21 16:40:00,1400,BM 78,5,+4m Entire,83.43,150000,10,West Of Africa,1,A.S.Neasham,C.Schofield ,54,3500,4,4,11.03,61.34208145468468,6.50,0,0
 Royal Randwick,9,2023-01-21 17:20:00,1600,BM 84,5,+4m Entire,95.77,150000,1,Beaufort Park,1,S.Hasan,R.King ,52,76250,3,3,0,62.98545968132611,15.00,14.00,3.70
-Royal Randwick,9,2023-01-21 17:20:00,1600,BM 84,5,+4m Entire,95.77,150000,2,Star Sparks,2,G.Waterhouse & A.Bott,T.Clark ,55,27250,1,1,0.59,62.925425078217664,0,0,1.50
-Royal Randwick,9,2023-01-21 17:20:00,1600,BM 84,5,+4m Entire,95.77,150000,3,Bullfinch (GB),5,C.J.Waller,J.B.McDonald ,58.5,13050,5,5,0.96,62.8877783492907,0,0,1.70
+Royal Randwick,9,2023-01-21 17:20:00,1600,BM 84,5,+4m Entire,95.77,150000,2,Star Sparks,2,G.Waterhouse & A.Bott,T.Clark ,55,27250,1,1,0.59,62.925425078217664,3.70,0,1.50
+Royal Randwick,9,2023-01-21 17:20:00,1600,BM 84,5,+4m Entire,95.77,150000,3,Bullfinch (GB),5,C.J.Waller,J.B.McDonald ,58.5,13050,5,5,0.96,62.8877783492907,10.00,0,1.70
 Royal Randwick,9,2023-01-21 17:20:00,1600,BM 84,5,+4m Entire,95.77,150000,4,Bold Mac (NZ),6,C.J.Waller,T.Berry ,55.5,6700,6,6,2.3,62.751449638600114,8.00,0,0
 Royal Randwick,9,2023-01-21 17:20:00,1600,BM 84,5,+4m Entire,95.77,150000,5,Night Of Power (IRE),11,B.Baker,S.Clipperton ,55.5,5000,10,10,2.38,62.74331128077567,26.00,0,0
 Royal Randwick,9,2023-01-21 17:20:00,1600,BM 84,5,+4m Entire,95.77,150000,6,Bazooka,8,D.L.Payne,D.Gibbons (a2),54,4000,9,9,3.32,62.647691234707324,10.00,0,0
@@ -7736,11 +7736,11 @@ Royal Randwick,2,2023-02-04 12:55:00,1600,BM 78,4,"+8m 1600m-W/Post, +5m Remaind
 Royal Randwick,2,2023-02-04 12:55:00,1600,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",95.43,150000,4,Wategos,4,B.Baker,K.McEvoy ,53.5,6700,1,1,2.22,62.67139127841915,20.00,0,0
 Royal Randwick,2,2023-02-04 12:55:00,1600,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",95.43,150000,5,Festival Dancer,1,M.C.Smith,R.King ,58.5,5000,2,2,12.48,61.62972211732019,12.00,0,0
 Royal Randwick,2,2023-02-04 12:55:00,1600,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",95.43,150000,6,Cosmic Minerva,3,B.Baker,J.B.McDonald ,57,4000,4,5,16.59,61.21279715234977,2.60,0,0
-Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,1,Dr Evil,3,J.A.Steinmetz,J.B.McDonald ,60,55000,6,5,0,62.32871761151728,0,4.60,1.90
+Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,1,Dr Evil,3,J.A.Steinmetz,J.B.McDonald ,60,55000,6,5,0,62.32871761151728,5.00,4.60,1.90
 Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,2,Real Peace,9,C.E.Conners,T.Sherry ,55,21750,9,9,1.39,62.18876138463697,15.00,0,3.80
 Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,3,Carolina Fire,1,L. & C.Curtis,J.Ford ,52,11250,1,1,1.8,62.147483632424574,6.50,0,2.20
-Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,4,Miss Lenorr,4,M.C.Smith,R.Jones (a1.5),54,6250,8,8,2.63,62.063927357995055,0,0,0
-Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,5,Lovetheinvasion,8,J.C.Deamer,D.Gibbons (a2),56.5,4750,2,2,3.06,62.02064233097989,0,0,0
+Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,4,Miss Lenorr,4,M.C.Smith,R.Jones (a1.5),54,6250,8,8,2.63,62.063927357995055,10.00,0,0
+Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,5,Lovetheinvasion,8,J.C.Deamer,D.Gibbons (a2),56.5,4750,2,2,3.06,62.02064233097989,5.00,0,0
 Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,6,Oh Golly Gosh,2,J.Attard & L.Keegan-Attard,R.King ,54.5,4000,3,3,3.21,62.005543411241256,10.00,0,0
 Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,7,Luvoir,5,J.Attard & L.Keegan-Attard,R.Bayliss ,56.5,3500,4,4,5.01,61.82437690390257,16.00,0,0
 Royal Randwick,3,2023-02-04 13:30:00,1600,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",96.3,120000,8,Ladies' Gem,6,J. & G.Lee,J.Duggan ,52,3500,5,6,6.25,61.6995953905496,26.00,0,0
@@ -7761,12 +7761,12 @@ Royal Randwick,4,2023-02-04 14:05:00,1200,BM 70,4,"+8m 1600m-W/Post, +5m Remaind
 Royal Randwick,4,2023-02-04 14:05:00,1200,BM 70,4,"+8m 1600m-W/Post, +5m Remainder",69.35,120000,14,Astrolith,3,D.R.Mirfin,J.A.Powell (a2),57,0,4,6,14.96,61.4461734315733,26.00,0,0
 Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,1,Sonora,9,C.Maher & D.Eustace,B.Avdulla ,55.5,76250,2,2,0,62.77057585645937,5.50,5.90,1.90
 Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,2,Grande Rumore (GB),2,K.A.Lees,D.Gibbons (a2),60.5,27250,5,5,1.68,62.56091651193357,21.00,0,5.40
-Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,3,Anagain,6,J.J.W.Pride,J.Collett ,54,13050,9,9,1.7,62.558420869726405,0,0,1.70
+Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,3,Anagain,6,J.J.W.Pride,J.Collett ,54,13050,9,9,1.7,62.558420869726405,5.00,0,1.70
 Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,4,Fearnought,5,C.J.Waller,N.Rawiller ,57.5,6700,7,7,3.35,62.35255493980041,14.00,0,0
 Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,5,Rupertaar,4,B.Baker,J.Duggan ,59,5000,4,4,3.66,62.31388251840376,6.00,0,0
 Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,6,I Siyou Baby (GB),8,J.O'Shea,B.D.Sayette (a1.5),59,4000,10,10,4.0,62.27146957859521,61.00,0,0
 Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,7,Aravene,3,M. & W. & J.Hawkes,T.Clark ,57,3500,6,6,4.26,62.23903754815979,7.50,0,0
-Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,8,Pretty Wild,7,C.J.Waller,J.B.McDonald ,58,3500,8,8,5.06,62.13925426967344,0,0,0
+Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,8,Pretty Wild,7,C.J.Waller,J.B.McDonald ,58,3500,8,8,5.06,62.13925426967344,5.00,0,0
 Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,9,Super Bright,1,N.C.Doyle,T.Schiller (a0),55,3500,3,3,5.34,62.104332828903146,8.00,0,0
 Royal Randwick,5,2023-02-04 14:40:00,1300,BM 78,4,"+8m 1600m-W/Post, +5m Remainder",76.46,150000,10,Mosht Up,10,S.W.Schofield,A.McLucas (a3),56,3500,1,1,6.78,61.92475904903353,51.00,0,0
 Royal Randwick,6,2023-02-04 15:20:00,1600,Open,4,"+8m 1600m-W/Post, +5m Remainder",95.81,150000,1,Banju,1,L.R.Chandler,R.Jones (a1.5),52,76250,3,2,0,62.647484667457626,1.95,1.80,1.20
@@ -8018,7 +8018,7 @@ Flemington,8,2023-02-18 17:00:00,1400,Listed,3,True Entire Circuit,81.93,175000,
 Flemington,8,2023-02-18 17:00:00,1400,Listed,3,True Entire Circuit,81.93,175000,13,Catch Twentytwo (SAF),6,R.Griffiths & M.de Kock,D.Yendall ,55.5,0,6,7,6.7,62.350808356590974,71.00,0,0
 Flemington,8,2023-02-18 17:00:00,1400,Listed,3,True Entire Circuit,81.93,175000,14,Milton Park,12,J.F.Moloney,J.Fry ,55.5,0,2,2,7.7,62.23435655943592,51.00,0,0
 Flemington,8,2023-02-18 17:00:00,1400,Listed,3,True Entire Circuit,81.93,175000,15,Hickok,2,A.W.Noonan,C.Williams ,54,0,4,5,8.45,62.147027937752796,41.00,0,0
-Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,1,D'jumbuck,10,B.McGrath,B.Shinn ,55.5,72500,4,4,0,63.05568759450896,0,3.55,1.65
+Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,1,D'jumbuck,10,B.McGrath,B.Shinn ,55.5,72500,4,4,0,63.05568759450896,3.60,3.55,1.65
 Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,2,Sessions Road,5,M. & W. & J.Hawkes,B.J.Melham ,56,23400,10,7,2.0,62.784074858074916,41.00,0,11.10
 Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,3,Red Hot Nicc,7,P.J.Stokes,Z.Spain ,57,11700,2,2,2.2,62.756918200742135,6.50,0,2.20
 Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,4,Sacred Palace (NZ),9,L.Smith,D.Oliver ,57.5,6500,9,6,3.45,62.58720814902551,12.00,0,0
@@ -8029,15 +8029,15 @@ Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,8
 Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,9,Gracias Amigo,1,G.M.Begg,L.N.McNeil (a2),56,2600,14,13,8.1,61.956176302138765,101.00,0,0
 Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,10,Hello Broadcast (IRE),12,E.Jusufovic,J.Kah ,55.5,2600,8,9,8.6,61.88835070003136,12.00,0,0
 Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,11,Jesta Dreama,11,W.J.Kelly,B.McDougall ,57.5,0,12,12,8.7,61.87478621745456,151.00,0,0
-Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,12,Jungle Jim,4,M.D.Moroney,D.W.Stackhouse ,58,0,1,1,9.7,61.73915309723042,0,0,0
+Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,12,Jungle Jim,4,M.D.Moroney,D.W.Stackhouse ,58,0,1,1,9.7,61.73915309723042,3.60,0,0
 Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,13,Magic To Exceed,13,S. & J.Casey,C.Williams ,54,0,6,10,10.2,61.67134452618168,26.00,0,0
 Flemington,9,2023-02-18 17:40:00,1200,BM 84,3,True Entire Circuit,69.48,130000,14,Chartres,14,M.Laurie,J.McNeil ,55,0,11,14,11.45,61.50184644026478,17.00,0,0
 Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,1,Blood River,2,D.L.Seib,R.Bayliss ,54,55000,4,2,0,62.583918941439556,14.00,13.00,4.20
 Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,2,Preemptory,12,D.A.J.Williams,Z.T.Lloyd (a2),57.5,21750,12,11,0.11,62.57120827356658,9.50,0,3.20
 Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,3,Bon Frankie,1,A.Clarke,T.Schiller (a0),54.5,11250,5,5,0.36,62.54232107896812,21.00,0,6.00
-Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,4,Super Extreme,9,C.Crockett,D.Gibbons (a2),60,6250,9,9,1.06,62.46144201259001,0,0,0
+Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,4,Super Extreme,9,C.Crockett,D.Gibbons (a2),60,6250,9,9,1.06,62.46144201259001,5.00,0,0
 Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,5,Syrian Star,7,R.Northam,G.Buckley ,54,4750,6,8,1.22,62.44295642029151,6.00,0,0
-Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,6,Atmospheric Rock,3,D.A.J.Williams,J.Collett ,54.5,4000,7,6,1.48,62.412918167732,0,0,0
+Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,6,Atmospheric Rock,3,D.A.J.Williams,J.Collett ,54.5,4000,7,6,1.48,62.412918167732,10.00,0,0
 Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,7,Indicative,4,C.Crockett,B.Prebble ,54.5,3500,1,1,1.74,62.382880949261555,9.50,0,0
 Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,8,Sizzle Minizzle,6,B.Robb,S.Clipperton ,57.5,3500,3,4,2.51,62.29393064171953,13.00,0,0
 Rosehill Gardens,1,2023-02-18 12:20:00,1400,BM 70,4,True,83.06,120000,9,Evocator,8,J.A.Graham,K.McEvoy ,56.5,3500,8,7,3.79,62.14608530359723,10.00,0,0
@@ -8082,10 +8082,10 @@ Rosehill Gardens,4,2023-02-18 14:05:00,1100,Group 2,4,True,63.2,250000,4,Fire La
 Rosehill Gardens,4,2023-02-18 14:05:00,1100,Group 2,4,True,63.2,250000,5,Mumbai Muse,2,M.J.Freedman,B.Prebble ,54.5,6100,4,4,5.97,62.546129148410955,8.50,0,0
 Rosehill Gardens,4,2023-02-18 14:05:00,1100,Group 2,4,True,63.2,250000,6,Madeira Sunrise,5,M.J.Freedman,J.Collett ,54.5,4000,5,5,6.48,62.47018449062047,11.00,0,0
 Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,1,Lindermann,8,C.J.Waller,N.Rawiller ,56,76250,1,1,0,63.50910577001796,8.50,8.30,2.60
-Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,2,Kokoro,4,J.O'Shea,B.Avdulla ,56.5,27250,4,4,1.4,63.34495612920335,0,0,2.10
+Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,2,Kokoro,4,J.O'Shea,B.Avdulla ,56.5,27250,4,4,1.4,63.34495612920335,10.00,0,2.10
 Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,3,Al Mah Haha,2,N.Burleigh,A.McLucas (a3),57.5,13050,6,5,2.69,63.19373088893257,31.00,0,8.10
 Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,4,Navajo Peak,6,D.L.Payne,K.McEvoy ,58,6700,3,2,2.89,63.17028743133248,13.00,0,0
-Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,5,Super Pursuit (NZ),5,R.D.Collett,J.Collett ,61.5,5000,7,8,3.46,63.1034769920706,0,0,0
+Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,5,Super Pursuit (NZ),5,R.D.Collett,J.Collett ,61.5,5000,7,8,3.46,63.1034769920706,10.00,0,0
 Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,6,Starboreta,3,N.C.Doyle,D.Gibbons (a2),57,4000,9,9,4.63,62.966355630664204,11.00,0,0
 Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,7,Hollywood North,11,C.J.Waller,C.Schofield ,56.5,3500,12,11,5.03,62.919481429548064,20.00,0,0
 Rosehill Gardens,5,2023-02-18 14:40:00,1400,BM 78,4,True,81.85,150000,8,Tajneed,7,P. & P.Snowden,T.Clark ,56,3500,8,7,6.23,62.77887381938042,7.00,0,0
@@ -8539,8 +8539,8 @@ Flemington,9,2023-03-11 17:40:00,1400,Quality,3,Out 4m Entire Circuit,83.21,1500
 Flemington,9,2023-03-11 17:40:00,1400,Quality,3,Out 4m Entire Circuit,83.21,150000,13,Do It La,8,P.G.Moody,B.McDougall ,54.5,0,3,3,4.4,61.65545755870499,21.00,0,0
 Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,1,Lancaster Bomber,1,R.Litt,C.Schofield ,58,55000,7,4,0,62.533940064434255,7.00,6.80,2.30
 Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,2,Astero,11,M.C.Smith,A.McLucas (a3),61.5,21750,10,10,1.16,62.377698055046224,10.00,0,3.10
-Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,3,Border Control,2,A.Duggan,R.King ,56,11250,9,11,2.04,62.25918830131133,0,0,2.40
-Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,4,Prince Invincible,9,S.Ryan,T.Schiller (a0),58,6250,2,2,2.1,62.25110867805849,0,0,0
+Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,3,Border Control,2,A.Duggan,R.King ,56,11250,9,11,2.04,62.25918830131133,6.00,0,2.40
+Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,4,Prince Invincible,9,S.Ryan,T.Schiller (a0),58,6250,2,2,2.1,62.25110867805849,6.00,0,0
 Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,5,Miss Kojiki,8,T.S.Howlett,N.Rawiller ,58,4750,6,8,2.23,62.233603085020334,8.50,0,0
 Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,6,Miss Einstein,3,S.T.Kavanagh,D.Gibbons (a1.5),57.5,4000,11,9,3.01,62.12857692645317,19.00,0,0
 Rosehill Gardens,1,2023-03-11 12:20:00,1200,BM 70,4,True,70.41,120000,7,Catesby,6,D.F.Lane,J.Duggan ,58,3500,8,7,3.99,61.99663898571519,16.00,0,0
@@ -9194,13 +9194,13 @@ Royal Randwick,5,2023-04-08 14:00:00,1200,Group 2,8,+4m Entire,71.27,1000000,6,Z
 Royal Randwick,5,2023-04-08 14:00:00,1200,Group 2,8,+4m Entire,71.27,1000000,7,Sacred Satono (NZ),2,B.Wallace & A.Peard,K.McEvoy ,56.5,10000,4,6,4.52,62.395527463535544,31.00,0,0
 Royal Randwick,5,2023-04-08 14:00:00,1200,Group 2,8,+4m Entire,71.27,1000000,8,Swiss Exile,7,A.S.Neasham,C.Schofield ,56.5,10000,3,2,5.85,62.21515638334396,18.00,0,0
 Royal Randwick,5,2023-04-08 14:00:00,1200,Group 2,8,+4m Entire,71.27,1000000,9,Economics,1,A.S.Neasham,T.Clark ,56.5,8000,7,7,7.23,62.028043969841555,10.00,0,0
-Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,1,Pennyweka (NZ),11,.Wallace,D.M.Lane ,56,694500,8,2,0,61.230846827733195,0,4.80,1.90
+Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,1,Pennyweka (NZ),11,.Wallace,D.M.Lane ,56,694500,8,2,0,61.230846827733195,4.80,4.80,1.90
 Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,2,So Dazzling (NZ),15,J.G.Sargent,J.Moreira ,56,190000,11,6,1.7,61.11874218191857,20.00,0,5.30
 Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,3,Premise (NZ),6,J.O'Shea,T.A.Marquand ,56,96000,7,7,4.76,60.91699089579414,17.00,0,4.70
 Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,4,Fireburn,4,G.Portelli,T.Schiller (a0),56,42000,10,8,4.99,60.90182851256527,6.50,0,0
-Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,5,Arts,10,E.A.Cummings,H.Bowman ,56,21000,9,5,7.36,60.74560577877899,0,0,0
+Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,5,Arts,10,E.A.Cummings,H.Bowman ,56,21000,9,5,7.36,60.74560577877899,4.80,0,0
 Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,6,Fay's Angels,13,K.M.Owen,R.Jones (a0),56,10000,14,9,8.68,60.658608103012725,151.00,0,0
-Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,7,Pavitra,2,R. & W.Freedman,J.B.McDonald ,56,10000,1,1,12.09,60.433905440214126,0,0,0
+Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,7,Pavitra,2,R. & W.Freedman,J.B.McDonald ,56,10000,1,1,12.09,60.433905440214126,4.80,0,0
 Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,8,Frankie's Me Dad,3,C.Maher & D.Eustace,B.Avdulla ,56,10000,5,4,19.14,59.96953388493729,51.00,0,0
 Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,9,Soul Choice,1,G.Waterhouse & A.Bott,T.Clark ,56,8000,3,3,19.68,59.93397557779817,19.00,0,0
 Royal Randwick,6,2023-04-08 14:35:00,2400,Group 1,7,+4m Entire,153.97,1000000,10,Polygon (NZ),5,L.Noble,B.Prebble ,56,8000,13,12,32.09,59.117210386320224,16.00,0,0
@@ -9320,13 +9320,13 @@ Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remai
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,3,Huetor (FR),3,P. & P.Snowden,K.McEvoy ,59,17500,12,11,1.15,62.12138130351352,17.00,0,5.30
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,4,Great House (IRE),2,C.J.Waller,B.Prebble ,55,8750,8,9,3.23,61.95416583264721,21.00,0,0
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,5,Pink Ivory (NZ),4,J.G.Sargent,T.Sherry ,54,5375,14,14,6.29,61.70822484208977,13.00,0,0
-Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,6,Sunshine Rising (FR),5,M.Newnham,N.Rawiller ,59,4000,7,5,7.43,61.616617675908294,0,0,0
+Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,6,Sunshine Rising (FR),5,M.Newnham,N.Rawiller ,59,4000,7,5,7.43,61.616617675908294,7.00,0,0
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,7,Honeycreeper,9,J.A.Cummings,Z.T.Lloyd (a0),53,3500,13,12,7.47,61.613403566198045,21.00,0,0
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,8,Pride Of Jenni,8,C.Maher & D.Eustace,R.Bayliss ,54,3500,1,1,8.27,61.54912389132192,9.50,0,0
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,9,Cadre Du Noir (USA),14,C.Maher & D.Eustace,B.Avdulla ,54.5,3500,6,2,8.35,61.54269618785453,19.00,0,0
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,10,Lion's Roar (NZ),1,J.O'Shea,C.Williams ,57,3500,4,8,9.68,61.435842656422516,9.50,0,0
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,11,Southern France (IRE),6,M.C.Smith,J.Ford ,55,0,5,13,12.17,61.23582931719349,151.00,0,0
-Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,12,Quality Time (GER),7,C.J.Waller,J.Moreira ,53,0,11,10,12.56,61.20450615530674,0,0,0
+Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,12,Quality Time (GER),7,C.J.Waller,J.Moreira ,53,0,11,10,12.56,61.20450615530674,10.00,0,0
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,13,Mount Popa (IRE),11,M. & W. & J.Hawkes,J.Collett ,58.5,0,3,6,15.29,60.98527615643623,21.00,0,0
 Royal Randwick,6,2023-04-15 14:30:00,2000,Group 3,8,"+7m 1000m-W/Post, +4m Remainder",125.13,200000,14,Protagonist (FR),10,W.Haggas,T.A.Marquand ,58,0,2,7,17.08,60.84156252522614,9.00,0,0
 Royal Randwick,7,2023-04-15 15:10:00,1600,Group 1,7,"+7m 1000m-W/Post, +4m Remainder",99.84,600000,1,Militarize (NZ),6,C.J.Waller,J.Moreira ,56.5,348000,6,5,0,61.016039754242584,2.05,2.00,1.20
@@ -10156,11 +10156,11 @@ Rosehill Gardens,7,2023-06-03 14:30:00,1200,BM 78,4,"+6m 1500m-W/P, +5m Remainde
 Rosehill Gardens,7,2023-06-03 14:30:00,1200,BM 78,4,"+6m 1500m-W/P, +5m Remainder",69.44,150000,8,Turning,7,K.Waugh,T.Schiller (a0),58,3500,7,7,2.94,63.00600099409181,21.00,0,0
 Rosehill Gardens,7,2023-06-03 14:30:00,1200,BM 78,4,"+6m 1500m-W/P, +5m Remainder",69.44,150000,9,Shalailed,6,J.O'Shea,J.B.Stanley (a3),59,3500,2,2,6.0,62.588339720957904,7.50,0,0
 Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,1,Mach Schnell (NZ),10,J.J.W.Pride,T.Schiller (a0),52,76250,1,1,0,62.08738882698582,41.00,39.20,8.10
-Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,2,Zoumon,6,G.Waterhouse & A.Bott,R.Bayliss ,55,27250,2,2,0.09,62.079364372583036,0,0,2.30
+Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,2,Zoumon,6,G.Waterhouse & A.Bott,R.Bayliss ,55,27250,2,2,0.09,62.079364372583036,10.00,0,2.30
 Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,3,Brutality,5,J.J.W.Pride,A.Hyeronimus ,60,13050,6,5,1.26,61.97505322013448,15.00,0,3.70
 Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,4,Wild Chap,9,B.M.Lazzarini,R.Dolan ,56.5,6700,3,4,1.49,61.95454908527701,101.00,0,0
-Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,5,Bold Mac (NZ),8,C.J.Waller,K.McEvoy ,56,5000,12,11,1.5,61.95365761216268,0,0,0
-Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,6,Tony Be,1,C.J.Waller,J.Ford ,52.5,4000,8,8,2.29,61.883234136634954,0,0,0
+Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,5,Bold Mac (NZ),8,C.J.Waller,K.McEvoy ,56,5000,12,11,1.5,61.95365761216268,5.00,0,0
+Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,6,Tony Be,1,C.J.Waller,J.Ford ,52.5,4000,8,8,2.29,61.883234136634954,5.00,0,0
 Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,7,Wicklow (IRE),11,C.J.Waller,D.Gibbons (a1.5),61,3500,13,10,2.31,61.88145133821021,7.00,0,0
 Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,8,Welsh Legend,13,R. & L.Price,T.Sherry ,54,3500,4,3,2.69,61.84757886630702,31.00,0,0
 Rosehill Gardens,8,2023-06-03 15:05:00,1800,BM 90,4,"+6m 1500m-W/P, +5m Remainder",109.75,150000,9,Another One,4,G.J.Colvin,D.Beasley ,57.5,3500,5,6,2.71,61.84579614137987,12.00,0,0
@@ -10213,10 +10213,10 @@ Royal Randwick,2,2023-06-10 11:35:00,1200,BM 70,5,+3m Entire,70.28,120000,10,Nos
 Royal Randwick,2,2023-06-10 11:35:00,1200,BM 70,5,+3m Entire,70.28,120000,11,Momack,1,B.A.Ryan,A.McLucas (a3),60.5,0,3,5,6.08,62.13709519378508,31.00,0,0
 Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,1,Cliff House,9,T.Donnelly,D.Beasley ,59,55000,9,6,0,62.50207149212518,7.00,7.60,2.70
 Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,2,Swift Charm (NZ),1,B.J.Dodson,K.Nestor ,59,21750,5,5,0.3,62.46975974085537,15.00,0,4.20
-Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,3,Sungblue,3,B.F.Cavanough,A.Morgan ,57.5,11250,3,2,0.49,62.44929625000008,0,0,1.90
+Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,3,Sungblue,3,B.F.Cavanough,A.Morgan ,57.5,11250,3,2,0.49,62.44929625000008,5.50,0,1.90
 Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,4,Chase My Crown,8,W.T.Wilkes,B.Prebble ,55.5,6250,8,8,0.86,62.4094476707337,7.00,0,0
 Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,5,Smooth Esprit,7,C.J.Lundholm,R.Simpson (a3),59,4750,10,10,1.0,62.394370304466115,41.00,0,0
-Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,6,Zouatica,2,"B.Joseph, P. & M.Jones",S.Guymer ,59,4000,1,1,1.31,62.360985635245136,0,0,0
+Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,6,Zouatica,2,"B.Joseph, P. & M.Jones",S.Guymer ,59,4000,1,1,1.31,62.360985635245136,5.50,0,0
 Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,7,Marcassin,12,T.Robinson,D.Gibbons (a1.5),57.5,3500,4,4,1.92,62.29529695490203,14.00,0,0
 Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,8,Spoke To Rajiv (NZ),11,J.A.Sylvester,K.O'Hara ,57.5,3500,14,12,3.17,62.16070448661777,101.00,0,0
 Royal Randwick,3,2023-06-10 12:10:00,1500,BM 70,5,+3m Entire,90.03,120000,9,Smarter Than You,4,N.Burleigh,B.Panya (a3),57,3500,7,9,3.84,62.08857150106289,81.00,0,0
@@ -10235,10 +10235,10 @@ Royal Randwick,4,2023-06-10 12:45:00,1200,BM 78,4,+3m Entire,69.69,150000,7,Part
 Royal Randwick,4,2023-06-10 12:45:00,1200,BM 78,4,+3m Entire,69.69,150000,8,Bitcoin Baby,5,G.Ryan & S.Alexiou,A.Adkins ,57,3500,2,3,8.7,61.9967778321235,31.00,0,0
 Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,1,Ita,9,B.Baker,A.Hyeronimus ,60.5,76250,3,3,0,61.92999903001562,11.00,10.40,3.30
 Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,2,Pharoah's Reign,7,R. & W.Freedman,R.Jones (a0),58,27250,2,2,2.38,61.6919083613584,9.50,0,3.10
-Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,3,Lekvarte (NZ),2,J.J.W.Pride,R.Hutchings ,59,13050,6,7,2.84,61.64589840795841,0,0,1.70
+Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,3,Lekvarte (NZ),2,J.J.W.Pride,R.Hutchings ,59,13050,6,7,2.84,61.64589840795841,4.20,0,1.70
 Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,4,Miss Einstein,1,S.T.Kavanagh,J.van Overmeire ,56,6700,4,4,3.29,61.600891047670345,41.00,0,0
 Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,5,Centrestone,4,C.J.Waller,B.Prebble ,55,5000,7,6,3.3,61.59989091081815,6.00,0,0
-Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,6,Peshmerga (GER),6,R.P.Quinn,D.Gibbons (a1.5),58.5,4000,1,1,4.04,61.52588400813619,0,0,0
+Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,6,Peshmerga (GER),6,R.P.Quinn,D.Gibbons (a1.5),58.5,4000,1,1,4.04,61.52588400813619,10.00,0,0
 Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,7,Pin Me Up (NZ),3,C.E.Conners,A.McLucas (a3),60,3500,5,5,4.53,61.47688294096203,7.00,0,0
 Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,8,Comme Bella Fille (NZ),5,J.O'Shea,T.Sherry ,58,3500,9,8,4.82,61.44788362520777,13.00,0,0
 Royal Randwick,5,2023-06-10 13:20:00,1600,BM 78,4,+3m Entire,96.92,150000,9,Kouklara,8,J.J.W.Pride,A.Adkins ,56,3500,8,9,32.96,58.63866771121689,9.00,0,0
@@ -10251,13 +10251,13 @@ Royal Randwick,6,2023-06-10 13:55:00,1000,BM 78,4,+3m Entire,57.38,150000,6,Boss
 Royal Randwick,6,2023-06-10 13:55:00,1000,BM 78,4,+3m Entire,57.38,150000,7,Holy Tycoon,5,T.S.Howlett,J.Ford ,53,3500,8,8,3.17,62.536812654055254,21.00,0,0
 Royal Randwick,6,2023-06-10 13:55:00,1000,BM 78,4,+3m Entire,57.38,150000,8,No Statement,2,M.F.Van Gestel,A.Hyeronimus ,58,3500,5,5,4.15,62.37719423508802,26.00,0,0
 Royal Randwick,6,2023-06-10 13:55:00,1000,BM 78,4,+3m Entire,57.38,150000,9,Distillate,1,M.J.Dale,A.McLucas (a3),57.5,3500,2,2,4.32,62.34950829707638,15.00,0,0
-Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,1,Democracy Manifest,7,C.J.Waller,B.Prebble ,55.5,76250,10,10,0,62.5104718390868,0,5.40,2.20
+Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,1,Democracy Manifest,7,C.J.Waller,B.Prebble ,55.5,76250,10,10,0,62.5104718390868,11.00,5.40,2.20
 Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,2,Steely,8,G.Ryan & S.Alexiou,A.Adkins ,57,27250,5,5,0.24,62.48623465651507,6.00,0,2.40
 Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,3,Wild Planet,11,M. & W. & J.Hawkes,J.van Overmeire ,57.5,13050,2,2,0.96,62.413527144449354,15.00,0,3.60
 Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,4,Bazooka,5,D.L.Payne,R.Dolan ,52,6700,7,8,1.4,62.36909775792076,13.00,0,0
 Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,5,Acquitted (IRE),3,K.A.Lees,D.Gibbons (a1.5),56.5,5000,6,6,1.56,62.35294217857664,7.00,0,0
 Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,6,Brutality,10,J.J.W.Pride,A.Hyeronimus ,58,4000,11,11,1.79,62.32971905785302,9.00,0,0
-Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,7,Super Strike (NZ),9,R.D.Collett,R.Jones (a0),55,3500,8,7,1.83,62.32568031742203,0,0,0
+Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,7,Super Strike (NZ),9,R.D.Collett,R.Jones (a0),55,3500,8,7,1.83,62.32568031742203,7.00,0,0
 Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,8,Lord Ardmore (NZ),4,C.J.Waller,R.Bayliss ,59.5,3500,9,9,2.68,62.239861510601656,26.00,0,0
 Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,9,Purple Sector (NZ),6,J.P.Thompson,K.Latham ,56,3500,3,4,2.72,62.23582318695105,16.00,0,0
 Royal Randwick,7,2023-06-10 14:30:00,1600,Open,4,+3m Entire,96.02,150000,10,Niffler (NZ),1,C.J.Waller,J.Ford ,52.5,3500,4,3,3.02,62.20553635710238,17.00,0,0
@@ -10372,7 +10372,7 @@ Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,15
 Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,150000,7,Makusha,13,R.G.Symons,W.T.Price (a1.5),54,3000,9,9,3.8,60.85554655199764,71.00,0,0
 Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,150000,8,Lavish Thinker,1,P.J.Stokes,M.J.Lloyd (a2),54,3000,7,7,3.9,60.847645276802865,41.00,0,0
 Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,150000,9,Euphoric,3,G.Eurell,Z.Spain ,59.5,3000,10,12,4.1,60.83184294659535,6.50,0,0
-Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,150000,10,Distrustful Award,2,P.A.Preusker,D.Yendall ,58,3000,,,5.35,60.733085037959334,0,0,0
+Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,150000,10,Distrustful Award,2,P.A.Preusker,D.Yendall ,58,3000,,,5.35,60.733085037959334,16.00,0,0
 Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,150000,11,Captain Pluto (NZ),4,T.Busuttin & N.Young,W.J.Egan ,56.5,0,4,4,9.35,60.41713699481791,31.00,0,0
 Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,150000,12,Lonfire,15,D.T.O'Brien,H.T.Coffey ,54,0,6,8,9.65,60.393445647647674,101.00,0,0
 Flemington,8,2023-06-17 16:00:00,2000,Quality,3,Out 11m Entire Circuit,124.19,150000,13,Daiya,14,C.Maher & D.Eustace,P.M.Moloney ,54,0,15,15,13.4,60.09735997096157,71.00,0,0
@@ -10773,14 +10773,14 @@ Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,20000
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,2,King's Crossing (NZ),13,D.T.O'Brien,C.G.Gaudray (a0),54,36000,12,9,1.25,61.28761473142386,10.00,0,3.20
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,3,Lavish Thinker,14,P.J.Stokes,Z.Spain ,54,18000,14,14,2.0,61.240032204805196,31.00,0,11.10
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,4,Verifier (NZ),5,N.A.Blackiston,R.P.Downey ,55,10000,9,10,4.0,61.11315840030946,5.50,0,0
-Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,5,My Brothers Keeper,7,S.Brown,D.W.Stackhouse ,55,6000,6,7,4.4,61.08778589894056,0,0,0
+Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,5,My Brothers Keeper,7,S.Brown,D.W.Stackhouse ,55,6000,6,7,4.4,61.08778589894056,10.00,0,0
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,6,Anarya,8,J.A.Cummings,D.Yendall ,54,4000,4,3,4.8,61.06241415137372,14.00,0,0
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,7,Gorgeous Zara (NZ),6,J.O'Shea,H.T.Coffey ,54,4000,10,11,5.8,60.998988082102514,15.00,0,0
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,8,Rise To Stardom,4,M.S.S.Cumani,M.J.Lloyd (a0),54,4000,11,13,6.55,60.95142162554229,51.00,0,0
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,9,Highland Hill,12,R.Griffiths & M.de Kock,W.F.Pinn (a0),54,4000,1,2,7.55,60.888003814026426,81.00,0,0
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,10,Off His Roca (NZ),2,A.R.Bobbin,W.T.Price (a0),54,4000,7,8,7.95,60.86263801204589,71.00,0,0
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,11,Midnight Lady,3,P.Payne,J.McNeil ,54,0,5,1,8.7,60.815079171715915,13.00,0,0
-Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,12,Whakamana,10,T.Busuttin & N.Young,W.J.Egan ,55,0,3,5,9.7,60.751671523108634,0,0,0
+Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,12,Whakamana,10,T.Busuttin & N.Young,W.J.Egan ,55,0,3,5,9.7,60.751671523108634,5.00,0,0
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,13,Nightsun,11,R.Griffiths & M.de Kock,C.Hefel (a0),54,0,13,12,10.45,60.704118892840775,151.00,0,0
 Flemington,6,2023-07-01 14:55:00,2500,Quality,5,True Entire Circuit,158.96,200000,14,Ain't He Grand,9,C.Maher & D.Eustace,J.Allen ,55,0,2,6,10.65,60.691438641355155,16.00,0,0
 Flemington,7,2023-07-01 15:30:00,1200,Listed,5,True Entire Circuit,70.28,175000,1,Mnementh,5,M.D.Beer,B.Shinn ,56,106000,1,1,0,62.96130144859345,11.00,11.80,4.10
@@ -11144,11 +11144,11 @@ Flemington,1,2023-07-15 12:00:00,1000,Open,4,Out 3m Entire Circuit,57.47,150000,
 Flemington,1,2023-07-15 12:00:00,1000,Open,4,Out 3m Entire Circuit,57.47,150000,10,Soju,7,S.Zahra,L.M.Campbell (a2),54,3000,7,7,5.65,62.035634605006024,31.00,0,0
 Flemington,1,2023-07-15 12:00:00,1000,Open,4,Out 3m Entire Circuit,57.47,150000,11,Jenni The Jet,11,C.Maher & D.Eustace,D.Bates ,54,0,9,9,7.9,61.66995103471867,31.00,0,0
 Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,1,Albanian I Am,3,P.Koumis,J.Fry ,54.5,82500,5,2,0,62.95816952915374,12.00,12.10,3.70
-Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,2,Cosmic Enigma,11,R.L.Cully,M.J.Lloyd (a2),54.5,27000,13,13,0.75,62.88637508517158,0,0,2.80
-Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,3,Magnaspin,8,L. & T.Corstens,L.M.Campbell (a2),55.5,13500,6,8,1.15,62.84808711182106,0,0,2.20
+Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,2,Cosmic Enigma,11,R.L.Cully,M.J.Lloyd (a2),54.5,27000,13,13,0.75,62.88637508517158,6.50,0,2.80
+Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,3,Magnaspin,8,L. & T.Corstens,L.M.Campbell (a2),55.5,13500,6,8,1.15,62.84808711182106,10.00,0,2.20
 Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,4,Powerbound,7,B. & JD.Hayes,H.T.Coffey ,54,7500,2,1,1.9,62.77630165945384,101.00,0,0
 Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,5,Cyclone Harmony,6,P.Gelagotis,C.Newitt ,54.5,4500,10,5,2.1,62.75715986352823,61.00,0,0
-Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,6,Slane,1,E.Jusufovic,C.Hefel (a1.5),55,3000,1,3,2.4,62.72844795272826,0,0,0
+Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,6,Slane,1,E.Jusufovic,C.Hefel (a1.5),55,3000,1,3,2.4,62.72844795272826,6.50,0,0
 Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,7,Crown Crusher,5,L.& S.Hope,W.F.Pinn (a2),54.5,3000,7,7,2.8,62.690166867333566,10.00,0,0
 Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,8,Party At Artie's,9,C.J.Calthorpe,D.W.Stackhouse ,55,3000,11,9,4.05,62.57054925633008,51.00,0,0
 Flemington,2,2023-07-15 12:35:00,1700,Open,4,Out 3m Entire Circuit,101.77,150000,9,Typhoon Titmus,4,R.Griffiths & M.de Kock,T.Stockdale (a1.5),59,3000,8,6,4.8,62.498786538568204,12.00,0,0
@@ -11357,9 +11357,9 @@ Royal Randwick,9,2023-07-15 16:00:00,1800,BM 84,4,"+11m 1000m-W/Post, +7m Remain
 Royal Randwick,9,2023-07-15 16:00:00,1800,BM 84,4,"+11m 1000m-W/Post, +7m Remainder",108.07,150000,11,Bartholomeu Dias (GB),10,A.S.Neasham,A.McLucas (a3),62,0,11,11,4.09,62.68230749639812,41.00,0,0
 Royal Randwick,9,2023-07-15 16:00:00,1800,BM 84,4,"+11m 1000m-W/Post, +7m Remainder",108.07,150000,12,Wild Chap,9,B.M.Lazzarini,B.Prebble ,59.5,0,4,2,5.28,62.57460849325316,26.00,0,0
 Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,1,Ouroboros,9,M.Price & M.Kent (Jnr),C.Newitt ,58,82500,1,2,0,62.98118609550586,7.50,8.30,2.80
-Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,2,Wolfy (NZ),8,N.R.Ryan,B.Shinn ,57,27000,8,8,1.0,62.84552971364344,0,0,1.90
+Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,2,Wolfy (NZ),8,N.R.Ryan,B.Shinn ,57,27000,8,8,1.0,62.84552971364344,4.00,0,1.90
 Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,3,Orion The Hunter,5,S.P.Nichols,P.M.Moloney ,58,13500,5,4,1.2,62.81840094918222,26.00,0,6.10
-Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,4,Sensical,7,P.G.Moody,D.Oliver ,57,7500,7,6,1.3,62.8048368811922,0,0,0
+Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,4,Sensical,7,P.G.Moody,D.Oliver ,57,7500,7,6,1.3,62.8048368811922,4.8,0,0
 Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,5,Gangitano,3,A. & A.Yargi,C.Williams ,59,4500,6,7,2.05,62.7031130532071,8.00,0,0
 Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,6,Amigo,1,P.G.Moody,W.J.Egan ,57.5,3000,2,1,2.8,62.60140102853961,6.00,0,0
 Caulfield,1,2023-07-22 12:05:00,1200,Open,4,Out 6m Entire Circuit,69.91,150000,7,Piastri,6,C.Maher & D.Eustace,B.Allen ,58,3000,9,9,3.0,62.57427981750651,10.00,0,0
@@ -11706,9 +11706,9 @@ Flemington,2,2023-08-05 12:20:00,1200,BM 70,4,Out 10m Entire Circuit,69.45,80000
 Flemington,2,2023-08-05 12:20:00,1200,BM 70,4,Out 10m Entire Circuit,69.45,80000,14,Abaddon,2,D.Krongold,L.M.Campbell (a2),57,0,16,15,8.8,62.19738357700295,18.00,0,0
 Flemington,2,2023-08-05 12:20:00,1200,BM 70,4,Out 10m Entire Circuit,69.45,80000,15,Cable De Vega,15,M.E.Huglin,M.J.Dee ,56.5,0,9,13,9.0,62.1701082591348,41.00,0,0
 Flemington,2,2023-08-05 12:20:00,1200,BM 70,4,Out 10m Entire Circuit,69.45,80000,16,Rockribbed,1,A.E.Laing,L.N.McNeil (a2),63.5,0,7,14,9.2,62.14283379720488,18.00,0,0
-Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,1,Robrick,4,M.Price & M.Kent (Jnr),D.M.Lane ,58,82500,4,2,0,63.28648102644255,0,4.90,2.10
+Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,1,Robrick,4,M.Price & M.Kent (Jnr),D.M.Lane ,58,82500,4,2,0,63.28648102644255,4.90,4.90,2.10
 Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,2,City Thunder,6,P.G.Moody & K.Coleman,L.Nolen ,58.5,27000,6,4,2.75,62.96748136525054,9.50,0,3.20
-Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,3,Gangitano,2,A. & A.Yargi,C.Williams ,60,13500,1,1,4.0,62.8225196906334,0,0,2.00
+Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,3,Gangitano,2,A. & A.Yargi,C.Williams ,60,13500,1,1,4.0,62.8225196906334,5.00,0,2.00
 Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,4,Gawnski,7,J.Warren,D.W.Stackhouse ,59.5,7500,7,7,4.4,62.77613700505283,8.50,0,0
 Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,5,Extreme Spirit,9,G.Portelli,C.Hefel (a1.5),60,4500,8,9,5.15,62.68917607776641,13.00,0,0
 Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,6,Warlords,5,T.Busuttin & N.Young,B.Shinn ,59.5,3000,2,3,5.9,62.602223778493745,5.50,0,0
@@ -11718,11 +11718,11 @@ Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,15000
 Flemington,3,2023-08-05 12:55:00,1410,BM 70,4,Out 10m Entire Circuit,82.77,150000,10,Orion The Hunter,3,S.P.Nichols,P.M.Moloney ,59.5,3000,5,6,7.6,62.40516389707668,9.50,0,0
 Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,1,Starlight Scope,8,Pat Carey & Harris Walker,J.McNeil ,55,71500,1,1,0,62.66565419976851,13.00,14.30,4.30
 Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,2,Beour Bay,3,S.P.Nichols,D.Yendall ,54,23400,2,2,0.1,62.654166006346514,6.50,0,2.10
-Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,3,Hell Hound,1,M.Price & M.Kent (Jnr),W.F.Pinn (a2),54.5,11700,4,3,1.85,62.45314703334757,0,0,2.10
+Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,3,Hell Hound,1,M.Price & M.Kent (Jnr),W.F.Pinn (a2),54.5,11700,4,3,1.85,62.45314703334757,5.50,0,2.10
 Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,4,Cuban Link,10,G.Eurell,C.Williams ,54,6500,8,8,2.15,62.41869128052539,6.50,0,0
 Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,5,Rick's Cafe,4,R.K.Schiffer,C.Hefel (a1.5),53,3900,5,5,3.9,62.21772652472728,14.00,0,0
 Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,6,Good And Proper,5,M.J.Ellerton,L.Lafferty (a3),58,2600,10,10,4.1,62.1947620775001,11.00,0,0
-Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,7,Cardigan Queen,2,C.Maher & D.Eustace,H.T.Coffey ,56.5,2600,6,6,4.2,62.18328008131931,0,0,0
+Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,7,Cardigan Queen,2,C.Maher & D.Eustace,H.T.Coffey ,56.5,2600,6,6,4.2,62.18328008131931,10.00,0,0
 Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,8,Impending Shadow,11,G.M.Johnstone,D.Bates ,54,2600,9,9,4.4,62.16031654394333,12.00,0,0
 Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,9,Queen Air,7,L.Smith,B.Mertens ,59,2600,7,7,4.6,62.13735361337481,12.00,0,0
 Flemington,4,2023-08-05 13:30:00,1410,BM 84,4,Out 10m Entire Circuit,83.59,130000,10,Ruby Tuesday,6,G.Portelli,D.M.Lane ,60,2600,3,4,5.1,62.07994894299762,12.00,0,0
@@ -11813,8 +11813,8 @@ Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,1,Hard To 
 Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,2,Xpresso,11,N.C.Doyle,A.Hyeronimus ,59.5,21750,3,3,0.54,62.397441792283296,9.00,0,2.90
 Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,3,Ningaloo Star,4,J.G.Sargent,J.Collett ,56.5,11250,7,7,1.11,62.31376900860319,6.50,0,2.30
 Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,4,The Seven Seas,5,J.G.Sargent,R.Maloney ,55.5,6250,4,4,2.26,62.144979968972606,21.00,0,0
-Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,5,Undivided,8,M.J.Freedman,T.Sherry ,54,4750,5,5,2.36,62.130304209542984,0,0,0
-Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,6,Super Bright,3,N.C.Doyle,D.Gibbons (a0),55,4000,10,8,2.37,62.128836647237186,0,0,0
+Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,5,Undivided,8,M.J.Freedman,T.Sherry ,54,4750,5,5,2.36,62.130304209542984,5.00,0,0
+Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,6,Super Bright,3,N.C.Doyle,D.Gibbons (a0),55,4000,10,8,2.37,62.128836647237186,5.00,0,0
 Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,7,Unwritten,7,G.D.Hickman,T.Schiller ,56,3500,11,11,3.52,61.96008353433422,21.00,0,0
 Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,8,Oakfield Mahogany,1,D.F.Lane,A.Adkins ,55,3500,6,6,4.2,61.860314544685835,13.00,0,0
 Rosehill Gardens,2,2023-08-05 12:05:00,1100,BM 70,4,True,64.17,120000,9,Oceans One,6,D.A.Pfieffer,R.King ,56,3500,2,2,5.01,61.74148709237726,7.00,0,0

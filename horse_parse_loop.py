@@ -394,13 +394,13 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/horse_data.csv', 'w
                 child.append(statistics.mean(horse_t3_position))
 
                 # horse_t3_top3
-                child.append(len(horse_t3_position[(np.where(horse_t3_position <= 3))]))
+                child.append(len(horse_t3_position[np.where((horse_t3_position <= 3) & (horse_t3_position > 0))]))
                              
                 # horse_t3_top2
-                child.append(len(horse_t3_position[(np.where(horse_t3_position <= 2))]))
+                child.append(len(horse_t3_position[np.where((horse_t3_position <= 2) & (horse_t3_position > 0))]))
                              
                 # horse_t3_top1
-                child.append(len(horse_t3_position[(np.where(horse_t3_position <= 1))]))
+                child.append(len(horse_t3_position[np.where((horse_t3_position <= 1) & (horse_t3_position > 0))]))
 
                 print("parent=>", parent)
                 print("child=>", child)
