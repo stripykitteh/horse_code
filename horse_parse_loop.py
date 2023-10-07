@@ -59,7 +59,7 @@ def only_numerics(seq):
     return ''.join(c for c in seq if (c.isdigit() or c =='.'))
 
 # horse fields
-fields = ['horse_name', 'foaled', 'colour', 'sire', 'dam', 'sex',  'prize_money', 'season', 'grp_listed', 'first_up', 'second_up', 'third_up', 'firm', 'good', 'soft', 'heavy', 'jumps', 'synth', 'position', 'num_runners', 'trainer', 'prize_pool', '_class', 'jockey', 'race_course', 'date', 'group_1_wins', 'starts', 'firsts', 'seconds', 'thirds', 'dist', 'cond', 'weight', '800m', '400m', 'margin', 'rating', 'odds', 'odds_source', 'horse_t0_prestige_max', 'horse_t0_prestige_median', 'horse_t0_prestige_mean', 'horse_t0_position_median', 'horse_t0_position_mean', 'horse_t0_top3', 'horse_t0_top2', 'horse_t0_percent_top3', 'horse_t0_percent_top2', 'horse_t0_percent_top1', 'horse_t3_prestige_max', 'horse_t3_prestige_median', 'horse_t3_prestige_mean', 'horse_t3_position_median', 'horse_t3_position_mean', 'horse_t3_top3', 'horse_t3_top2', 'horse_t3_top1']
+fields = ['horse_name', 'foaled', 'colour', 'sire', 'dam', 'sex',  'prize_money', 'season', 'grp_listed', 'first_up', 'second_up', 'third_up', 'firm', 'good', 'soft', 'heavy', 'jumps', 'synth', 'position', 'num_runners', 'trainer', 'prize_pool', '_class', 'jockey', 'race_course', 'race_no', 'date', 'group_1_wins', 'starts', 'firsts', 'seconds', 'thirds', 'dist', 'cond', 'weight', '800m', '400m', 'margin', 'rating', 'odds', 'odds_source', 'horse_t0_prestige_max', 'horse_t0_prestige_median', 'horse_t0_prestige_mean', 'horse_t0_position_median', 'horse_t0_position_mean', 'horse_t0_top3', 'horse_t0_top2', 'horse_t0_percent_top3', 'horse_t0_percent_top2', 'horse_t0_percent_top1', 'horse_t3_prestige_max', 'horse_t3_prestige_median', 'horse_t3_prestige_mean', 'horse_t3_position_median', 'horse_t3_position_mean', 'horse_t3_top3', 'horse_t3_top2', 'horse_t3_top1']
 print("fields=>", fields)
 
 # Open a file for writing
@@ -238,7 +238,7 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/horse_data.csv', 'w
                     jockey = ""
                 child.append(jockey)
         
-                # * Race Course/Date
+                # * Race Course/Race Number/Date
                 race_course = columns[8].text.strip()
                 # Lookup tracks in scope
                 if race_course == 'CAUL':
@@ -251,6 +251,12 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/horse_data.csv', 'w
                     child.append('Royal Randwick')
                 else:
                     child.append(race_course)
+
+                # Race Number
+                # Access the list from the end to avoid course names like 'M V'
+                race_no = only_numerics(columns[7].text.strip().split()[-4])
+                child.append(race_no)
+                    
                 # change date format to YYYY-MM-DD
                 date = "20" + columns[6].text.strip()[6:8] + "-" + columns[6].text.strip()[3:5] + "-" + columns[6].text.strip()[0:2]
                 child.append(date)

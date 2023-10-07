@@ -41,7 +41,7 @@ def only_numerics(seq):
     return ''.join(c for c in seq if (c.isdigit() or c =='.'))
 
 # jockey fields
-fields = ['jockey_name', 'career_wins', 'group_1_wins', 'prize_money', 'win_pct', 'recent_win_pct', 'group_1_win_pct', 'group_1_place_pct', 'group_2_win_pct', 'group_2_place_pct', 'group_3_win_pct', 'group_3_place_pct', 'listed_win_pct', 'listed_place_pct', 'other_win_pct', 'other_place_pct']
+fields = ['jockey', 'jockey_career_wins', 'jockey_group_1_wins', 'jockey_prize_money', 'jockey_win_pct', 'jockey_recent_win_pct', 'jockey_group_1_win_pct', 'jockey_group_1_place_pct', 'jockey_group_2_win_pct', 'jockey_group_2_place_pct', 'jockey_group_3_win_pct', 'jockey_group_3_place_pct', 'jockey_listed_win_pct', 'jockey_listed_place_pct', 'jockey_other_win_pct', 'jockey_other_place_pct']
 print("fields=>", fields)
 
 # Open a file for writing
@@ -63,9 +63,9 @@ with open('/Users/phillipmonk/research_paper/horse_code/data/jockey_data.csv', '
             parent = []
 
             # Name
-            jockey_name = soup.find("span", {"itemprop": "name"}).text.strip()
-            print("jockey_name=>", jockey_name)
-            parent.append(jockey_name)
+            jockey = soup.find("span", {"itemprop": "name"}).text.strip().lower().replace(" ","-").replace("'","")
+            print("jockey=>", jockey)
+            parent.append(jockey)
 
             deets = soup.find("table", {"class": "quick-stats-table desk"}).find_all("span", {"class": "stat"})
 
